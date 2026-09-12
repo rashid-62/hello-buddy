@@ -2528,6 +2528,8 @@ dialog.modal::backdrop {
   align-items: center;
   gap: 0.75rem;
   animation: pulseFade 1.8s infinite alternate;
+}
+
 .settings-group.no-border {
   border-bottom: none;
   padding-bottom: 0;
