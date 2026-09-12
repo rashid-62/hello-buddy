@@ -5,11 +5,9 @@
  *   keywordSearch → embeddings + pgvector / Pinecone / Chroma
  */
 
-import fs from "fs.js";
-import path from "path.js";
+import { KNOWLEDGE_FILES } from "./knowledgeData.js";
 import { extractKeywords, rankEntries } from "./keywordSearch.js";
 
-const KNOWLEDGE_DIR = path.join(__dirname, '..', '..', 'knowledge');
 
 /** Map query themes → preferred knowledge files */
 const CATEGORY_FILE_MAP = {
@@ -104,18 +102,11 @@ const ALL_KNOWLEDGE_FILES = [
 let knowledgeCache = null;
 
 function loadKnowledgeFile(filename) {
-  const fullPath = path.join(KNOWLEDGE_DIR, filename);
-  if (!fs.existsSync(fullPath)) return [];
-  try {
-    const raw = fs.readFileSync(fullPath, 'utf8');
-    const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed)) return parsed;
-    if (parsed && Array.isArray(parsed.entries)) return parsed.entries;
-    return [];
-  } catch (err) {
-    console.error(`Failed to load knowledge file ${filename}:`, err.message);
-    return [];
-  }
+  const parsed = KNOWLEDGE_FILES[filename];
+  if (!parsed) return [];
+  if (Array.isArray(parsed)) return parsed;
+  if (Array.isArray(parsed.entries)) return parsed.entries;
+  return [];
 }
 
 function getAllKnowledge() {
