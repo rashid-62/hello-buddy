@@ -1,0 +1,1096 @@
+{
+  "schema_version": "1.0",
+  "collection": "timeline",
+  "notes": "Comprehensive timeline spanning major eras.",
+  "entries": [
+    {
+      "id": "p1",
+      "title": "Birth of Prophet Muhammad ﷺ",
+      "period": "Prophetic Era",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "570 CE",
+      "summary": "Birth in Makkah.",
+      "detailed_information": "Known as the Year of the Elephant.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "p2",
+      "title": "First Revelation",
+      "period": "Prophetic Era",
+      "year_hijri": "13 BH",
+      "year_ce": "610 CE",
+      "summary": "Angel Jibril reveals the first verses of the Quran at Cave Hira.",
+      "detailed_information": "Marked the beginning of prophethood.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Jibril"
+      ],
+      "location": "Cave Hira, Makkah"
+    },
+    {
+      "id": "p3",
+      "title": "Beginning of Public Preaching",
+      "period": "Prophetic Era",
+      "year_hijri": "10 BH",
+      "year_ce": "613 CE",
+      "summary": "The Prophet begins public preaching at Mount Safa.",
+      "detailed_information": "Led to intense opposition from the Quraysh leaders.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "p4",
+      "title": "First Migration to Abyssinia",
+      "period": "Prophetic Era",
+      "year_hijri": "8 BH",
+      "year_ce": "615 CE",
+      "summary": "A group of Muslims migrates to seek refuge under the Christian King Negus.",
+      "detailed_information": "A crucial strategic move to escape severe persecution.",
+      "important_people": [
+        "Jafar ibn Abi Talib",
+        "Negus"
+      ],
+      "location": "Abyssinia"
+    },
+    {
+      "id": "p5",
+      "title": "Year of Sorrow",
+      "period": "Prophetic Era",
+      "year_hijri": "4 BH",
+      "year_ce": "619 CE",
+      "summary": "Death of Abu Talib and Khadijah.",
+      "detailed_information": "The loss of his primary protector and beloved wife severely affected the Prophet.",
+      "important_people": [
+        "Abu Talib",
+        "Khadijah"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "p6",
+      "title": "Journey to Ta'if",
+      "period": "Prophetic Era",
+      "year_hijri": "4 BH",
+      "year_ce": "619 CE",
+      "summary": "The Prophet travels to Ta'if seeking support but is violently rejected.",
+      "detailed_information": "A profound test of patience and resilience.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Zayd ibn Harithah"
+      ],
+      "location": "Taif"
+    },
+    {
+      "id": "p7",
+      "title": "Isra and Mi'raj",
+      "period": "Prophetic Era",
+      "year_hijri": "2 BH",
+      "year_ce": "621 CE",
+      "summary": "The Night Journey to Jerusalem and ascension to the Heavens.",
+      "detailed_information": "A miraculous event where the daily prayers (Salah) were prescribed.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah to Jerusalem"
+    },
+    {
+      "id": "p8",
+      "title": "First Pledge of Aqabah",
+      "period": "Prophetic Era",
+      "year_hijri": "2 BH",
+      "year_ce": "621 CE",
+      "summary": "Delegation from Yathrib accepts Islam.",
+      "detailed_information": "Paved the way for the eventual migration (Hijrah).",
+      "important_people": [
+        "Aws and Khazraj leaders"
+      ],
+      "location": "Aqabah, near Makkah"
+    },
+    {
+      "id": "p9",
+      "title": "Second Pledge of Aqabah",
+      "period": "Prophetic Era",
+      "year_hijri": "1 BH",
+      "year_ce": "622 CE",
+      "summary": "73 men and 2 women from Yathrib pledge to protect the Prophet.",
+      "detailed_information": "Solidified the political alliance necessary for the Hijrah.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Ansar"
+      ],
+      "location": "Aqabah"
+    },
+    {
+      "id": "p10",
+      "title": "The Hijrah (Migration)",
+      "period": "Prophetic Era",
+      "year_hijri": "1 AH",
+      "year_ce": "622 CE",
+      "summary": "The Prophet and his companions migrate to Yathrib (Madinah).",
+      "detailed_information": "Marks the beginning of the Islamic calendar.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Bakr"
+      ],
+      "location": "Makkah to Madinah"
+    },
+    {
+      "id": "p11",
+      "title": "Constitution of Madinah",
+      "period": "Prophetic Era",
+      "year_hijri": "1 AH",
+      "year_ce": "622 CE",
+      "summary": "Drafting of a constitution uniting the tribes of Madinah.",
+      "detailed_information": "Established the first Islamic state with rights for both Muslims and Jews.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Muhajirun",
+        "Ansar",
+        "Jewish Tribes"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "p12",
+      "title": "Battle of Badr",
+      "period": "Prophetic Era",
+      "year_hijri": "2 AH",
+      "year_ce": "624 CE",
+      "summary": "The first major battle between Muslims and Quraysh.",
+      "detailed_information": "A decisive victory for the heavily outnumbered Muslims.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Jahl"
+      ],
+      "location": "Badr"
+    },
+    {
+      "id": "p13",
+      "title": "Battle of Uhud",
+      "period": "Prophetic Era",
+      "year_hijri": "3 AH",
+      "year_ce": "625 CE",
+      "summary": "The second major encounter with the Quraysh.",
+      "detailed_information": "Resulted in a tactical setback and the martyrdom of Hamza.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Hamza ibn Abd al-Muttalib",
+        "Khalid ibn al-Walid"
+      ],
+      "location": "Mount Uhud"
+    },
+    {
+      "id": "p14",
+      "title": "Battle of the Trench (Khandaq)",
+      "period": "Prophetic Era",
+      "year_hijri": "5 AH",
+      "year_ce": "627 CE",
+      "summary": "Muslims successfully defend Madinah against a massive confederate army.",
+      "detailed_information": "Used a strategic trench suggested by Salman al-Farsi.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Salman al-Farsi",
+        "Abu Sufyan"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "p15",
+      "title": "Treaty of Hudaybiyyah",
+      "period": "Prophetic Era",
+      "year_hijri": "6 AH",
+      "year_ce": "628 CE",
+      "summary": "A 10-year peace treaty signed with the Quraysh.",
+      "detailed_information": "Allowed a period of peace that led to massive expansion of Islam.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Suhayl ibn Amr"
+      ],
+      "location": "Hudaybiyyah"
+    },
+    {
+      "id": "p16",
+      "title": "Conquest of Khaybar",
+      "period": "Prophetic Era",
+      "year_hijri": "7 AH",
+      "year_ce": "628 CE",
+      "summary": "Muslims capture the fortified oasis of Khaybar.",
+      "detailed_information": "Secured the northern flank of Madinah.",
+      "important_people": [
+        "Ali ibn Abi Talib"
+      ],
+      "location": "Khaybar"
+    },
+    {
+      "id": "p17",
+      "title": "Battle of Mu'tah",
+      "period": "Prophetic Era",
+      "year_hijri": "8 AH",
+      "year_ce": "629 CE",
+      "summary": "First major encounter with Byzantine forces.",
+      "detailed_information": "A grueling battle where Khalid ibn al-Walid saved the Muslim army from annihilation.",
+      "important_people": [
+        "Zayd ibn Harithah",
+        "Khalid ibn al-Walid"
+      ],
+      "location": "Mu'tah (Jordan)"
+    },
+    {
+      "id": "p18",
+      "title": "Conquest of Makkah",
+      "period": "Prophetic Era",
+      "year_hijri": "8 AH",
+      "year_ce": "630 CE",
+      "summary": "The peaceful surrender of Makkah to the Prophet.",
+      "detailed_information": "The idols in the Kaaba were destroyed and a general amnesty was declared.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Sufyan"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "p19",
+      "title": "Year of Delegations",
+      "period": "Prophetic Era",
+      "year_hijri": "9 AH",
+      "year_ce": "631 CE",
+      "summary": "Tribes from across Arabia send delegations to accept Islam.",
+      "detailed_information": "Islam becomes the dominant force in the Arabian Peninsula.",
+      "important_people": [
+        "Various Tribal Leaders"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "p20",
+      "title": "Farewell Pilgrimage and Death",
+      "period": "Prophetic Era",
+      "year_hijri": "10-11 AH",
+      "year_ce": "632 CE",
+      "summary": "The Prophet delivers his Farewell Sermon and passes away shortly after.",
+      "detailed_information": "Completed the revelation of the Quran.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah and Madinah"
+    },
+    {
+      "id": "r1",
+      "title": "Election of Abu Bakr",
+      "period": "Rashidun",
+      "year_hijri": "11 AH",
+      "year_ce": "632 CE",
+      "summary": "Abu Bakr is chosen as the first Caliph at Saqifah.",
+      "detailed_information": "Maintained unity immediately following the Prophet's death.",
+      "important_people": [
+        "Abu Bakr",
+        "Umar ibn al-Khattab"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r2",
+      "title": "Ridda Wars Begin",
+      "period": "Rashidun",
+      "year_hijri": "11 AH",
+      "year_ce": "632 CE",
+      "summary": "Abu Bakr campaigns against rebel tribes that committed apostasy or refused Zakat.",
+      "detailed_information": "Solidified state control over the Arabian Peninsula.",
+      "important_people": [
+        "Abu Bakr",
+        "Khalid ibn al-Walid"
+      ],
+      "location": "Arabia"
+    },
+    {
+      "id": "r3",
+      "title": "Battle of Yamama",
+      "period": "Rashidun",
+      "year_hijri": "11 AH",
+      "year_ce": "632 CE",
+      "summary": "Decisive battle against the false prophet Musaylimah.",
+      "detailed_information": "The high number of Huffaz (Quran memorizers) killed prompted the compilation of the Quran.",
+      "important_people": [
+        "Khalid ibn al-Walid",
+        "Musaylimah"
+      ],
+      "location": "Najd"
+    },
+    {
+      "id": "r4",
+      "title": "Compilation of the Quran",
+      "period": "Rashidun",
+      "year_hijri": "12 AH",
+      "year_ce": "633 CE",
+      "summary": "Zayd ibn Thabit is commissioned to compile a single written copy of the Quran.",
+      "detailed_information": "Ensured the preservation of the text.",
+      "important_people": [
+        "Abu Bakr",
+        "Zayd ibn Thabit"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r5",
+      "title": "Campaigns in Iraq & Syria Begin",
+      "period": "Rashidun",
+      "year_hijri": "12 AH",
+      "year_ce": "633 CE",
+      "summary": "Muslim armies engage the Sassanid and Byzantine empires.",
+      "detailed_information": "Initiated the rapid expansion of the Caliphate.",
+      "important_people": [
+        "Khalid ibn al-Walid",
+        "Abu Ubaidah"
+      ],
+      "location": "Iraq and Syria"
+    },
+    {
+      "id": "r6",
+      "title": "Death of Abu Bakr & Election of Umar",
+      "period": "Rashidun",
+      "year_hijri": "13 AH",
+      "year_ce": "634 CE",
+      "summary": "Umar ibn al-Khattab becomes the second Caliph.",
+      "detailed_information": "Marked the beginning of massive administrative and territorial expansion.",
+      "important_people": [
+        "Abu Bakr",
+        "Umar ibn al-Khattab"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r7",
+      "title": "Battle of Yarmouk",
+      "period": "Rashidun",
+      "year_hijri": "15 AH",
+      "year_ce": "636 CE",
+      "summary": "Decisive victory over the Byzantine Empire.",
+      "detailed_information": "Secured the Levant for the Caliphate.",
+      "important_people": [
+        "Khalid ibn al-Walid",
+        "Vahan"
+      ],
+      "location": "Syria"
+    },
+    {
+      "id": "r8",
+      "title": "Battle of al-Qadisiyyah",
+      "period": "Rashidun",
+      "year_hijri": "15 AH",
+      "year_ce": "636 CE",
+      "summary": "Decisive victory over the Sassanid Persian Empire.",
+      "detailed_information": "Led to the fall of Iraq to the Muslims.",
+      "important_people": [
+        "Sa'd ibn Abi Waqqas",
+        "Rostam"
+      ],
+      "location": "Iraq"
+    },
+    {
+      "id": "r9",
+      "title": "Conquest of Jerusalem",
+      "period": "Rashidun",
+      "year_hijri": "16 AH",
+      "year_ce": "637 CE",
+      "summary": "Patriarch Sophronius surrenders Jerusalem to Caliph Umar.",
+      "detailed_information": "Umar guarantees the safety of Christian holy sites.",
+      "important_people": [
+        "Umar ibn al-Khattab",
+        "Sophronius"
+      ],
+      "location": "Jerusalem"
+    },
+    {
+      "id": "r10",
+      "title": "Conquest of Ctesiphon",
+      "period": "Rashidun",
+      "year_hijri": "16 AH",
+      "year_ce": "637 CE",
+      "summary": "The Sassanid capital falls to Muslim forces.",
+      "detailed_information": "Marked the effective end of the Sassanid imperial government.",
+      "important_people": [
+        "Sa'd ibn Abi Waqqas"
+      ],
+      "location": "Ctesiphon, Iraq"
+    },
+    {
+      "id": "r11",
+      "title": "Conquest of Egypt",
+      "period": "Rashidun",
+      "year_hijri": "20 AH",
+      "year_ce": "641 CE",
+      "summary": "Amr ibn al-As captures Alexandria.",
+      "detailed_information": "Added a major agricultural and economic powerhouse to the empire.",
+      "important_people": [
+        "Amr ibn al-As"
+      ],
+      "location": "Egypt"
+    },
+    {
+      "id": "r12",
+      "title": "Battle of Nahavand",
+      "period": "Rashidun",
+      "year_hijri": "21 AH",
+      "year_ce": "642 CE",
+      "summary": "Known as the \"Victory of Victories\" against the Persians.",
+      "detailed_information": "Resulted in the complete collapse of the Sassanid military.",
+      "important_people": [
+        "Nu'man ibn Muqarrin"
+      ],
+      "location": "Persia"
+    },
+    {
+      "id": "r13",
+      "title": "Assassination of Umar",
+      "period": "Rashidun",
+      "year_hijri": "23 AH",
+      "year_ce": "644 CE",
+      "summary": "Caliph Umar is assassinated by a Persian slave.",
+      "detailed_information": "A devastating loss for the Muslim community.",
+      "important_people": [
+        "Umar ibn al-Khattab",
+        "Abu Lu'lu'a"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r14",
+      "title": "Election of Uthman",
+      "period": "Rashidun",
+      "year_hijri": "23 AH",
+      "year_ce": "644 CE",
+      "summary": "Uthman ibn Affan is elected by a shura council.",
+      "detailed_information": "The empire continued its vast economic and territorial expansion.",
+      "important_people": [
+        "Uthman ibn Affan"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r15",
+      "title": "Standardization of the Quran",
+      "period": "Rashidun",
+      "year_hijri": "30 AH",
+      "year_ce": "650 CE",
+      "summary": "Uthman orders standard copies of the Quran to be distributed.",
+      "detailed_information": "Prevented dialectical variations from causing division.",
+      "important_people": [
+        "Uthman ibn Affan",
+        "Zayd ibn Thabit"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r16",
+      "title": "Battle of the Masts",
+      "period": "Rashidun",
+      "year_hijri": "34 AH",
+      "year_ce": "655 CE",
+      "summary": "First major naval victory for the Muslims against the Byzantines.",
+      "detailed_information": "Established Islamic naval supremacy in the eastern Mediterranean.",
+      "important_people": [
+        "Abdullah ibn Sa'd"
+      ],
+      "location": "Mediterranean Sea"
+    },
+    {
+      "id": "r17",
+      "title": "Assassination of Uthman",
+      "period": "Rashidun",
+      "year_hijri": "35 AH",
+      "year_ce": "656 CE",
+      "summary": "Rebels lay siege to Uthman's house and assassinate him.",
+      "detailed_information": "Ignited the First Fitna (Civil War).",
+      "important_people": [
+        "Uthman ibn Affan"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "r18",
+      "title": "Election of Ali & Battle of the Camel",
+      "period": "Rashidun",
+      "year_hijri": "36 AH",
+      "year_ce": "656 CE",
+      "summary": "Ali becomes Caliph but faces opposition regarding Uthman's killers.",
+      "detailed_information": "Resulted in the first major battle between Muslim factions.",
+      "important_people": [
+        "Ali ibn Abi Talib",
+        "Aisha",
+        "Talha",
+        "Zubayr"
+      ],
+      "location": "Basra, Iraq"
+    },
+    {
+      "id": "r19",
+      "title": "Battle of Siffin",
+      "period": "Rashidun",
+      "year_hijri": "37 AH",
+      "year_ce": "657 CE",
+      "summary": "Ali's forces clash with Mu'awiyah's Syrian army.",
+      "detailed_information": "Ended in controversial arbitration that split Ali's supporters.",
+      "important_people": [
+        "Ali ibn Abi Talib",
+        "Mu'awiyah I"
+      ],
+      "location": "Siffin, Syria"
+    },
+    {
+      "id": "r20",
+      "title": "Assassination of Ali",
+      "period": "Rashidun",
+      "year_hijri": "40 AH",
+      "year_ce": "661 CE",
+      "summary": "Ali is assassinated by a Kharijite.",
+      "detailed_information": "Marks the end of the Rashidun Caliphate.",
+      "important_people": [
+        "Ali ibn Abi Talib",
+        "Ibn Muljam"
+      ],
+      "location": "Kufa, Iraq"
+    },
+    {
+      "id": "u1",
+      "title": "Hasan-Mu'awiyah Treaty",
+      "period": "Umayyad",
+      "year_hijri": "41 AH",
+      "year_ce": "661 CE",
+      "summary": "Hasan ibn Ali abdicates in favor of Mu'awiyah.",
+      "detailed_information": "Ends the First Fitna and establishes the Umayyad dynasty.",
+      "important_people": [
+        "Hasan ibn Ali",
+        "Mu'awiyah I"
+      ],
+      "location": "Kufa / Damascus"
+    },
+    {
+      "id": "u2",
+      "title": "Capital moved to Damascus",
+      "period": "Umayyad",
+      "year_hijri": "41 AH",
+      "year_ce": "661 CE",
+      "summary": "Mu'awiyah shifts the center of power from Kufa to Damascus.",
+      "detailed_information": "Brought the administration closer to Byzantine organizational models.",
+      "important_people": [
+        "Mu'awiyah I"
+      ],
+      "location": "Damascus"
+    },
+    {
+      "id": "u3",
+      "title": "Succession of Yazid",
+      "period": "Umayyad",
+      "year_hijri": "60 AH",
+      "year_ce": "680 CE",
+      "summary": "Mu'awiyah appoints his son Yazid as successor.",
+      "detailed_information": "Broke the tradition of consultative succession, sparking outrage.",
+      "important_people": [
+        "Yazid I"
+      ],
+      "location": "Damascus"
+    },
+    {
+      "id": "u4",
+      "title": "Tragedy of Karbala",
+      "period": "Umayyad",
+      "year_hijri": "61 AH",
+      "year_ce": "680 CE",
+      "summary": "Husayn ibn Ali and his family are massacred.",
+      "detailed_information": "A defining moment of resistance against tyranny.",
+      "important_people": [
+        "Husayn ibn Ali",
+        "Yazid I"
+      ],
+      "location": "Karbala"
+    },
+    {
+      "id": "u5",
+      "title": "Battle of al-Harra",
+      "period": "Umayyad",
+      "year_hijri": "63 AH",
+      "year_ce": "683 CE",
+      "summary": "Umayyad forces sack Madinah to crush a rebellion.",
+      "detailed_information": "Deepened the unpopularity of the Umayyad rulers.",
+      "important_people": [
+        "Muslim ibn Uqba"
+      ],
+      "location": "Madinah"
+    },
+    {
+      "id": "u6",
+      "title": "Siege of Makkah",
+      "period": "Umayyad",
+      "year_hijri": "64 AH",
+      "year_ce": "683 CE",
+      "summary": "Umayyad army besieges Abdullah ibn al-Zubayr.",
+      "detailed_information": "The Kaaba is heavily damaged in the fighting.",
+      "important_people": [
+        "Abdullah ibn al-Zubayr"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "u7",
+      "title": "Accession of Abd al-Malik",
+      "period": "Umayyad",
+      "year_hijri": "65 AH",
+      "year_ce": "685 CE",
+      "summary": "Abd al-Malik ibn Marwan becomes Caliph.",
+      "detailed_information": "Consolidated the fractured empire during the Second Fitna.",
+      "important_people": [
+        "Abd al-Malik ibn Marwan"
+      ],
+      "location": "Damascus"
+    },
+    {
+      "id": "u8",
+      "title": "Construction of the Dome of the Rock",
+      "period": "Umayyad",
+      "year_hijri": "72 AH",
+      "year_ce": "692 CE",
+      "summary": "Abd al-Malik completes the Dome of the Rock.",
+      "detailed_information": "One of the oldest extant works of Islamic architecture.",
+      "important_people": [
+        "Abd al-Malik ibn Marwan"
+      ],
+      "location": "Jerusalem"
+    },
+    {
+      "id": "u9",
+      "title": "End of the Second Fitna",
+      "period": "Umayyad",
+      "year_hijri": "73 AH",
+      "year_ce": "692 CE",
+      "summary": "Al-Hajjaj besieges Makkah and defeats Ibn al-Zubayr.",
+      "detailed_information": "Restored undisputed Umayyad control over the empire.",
+      "important_people": [
+        "Al-Hajjaj ibn Yusuf",
+        "Abdullah ibn al-Zubayr"
+      ],
+      "location": "Makkah"
+    },
+    {
+      "id": "u10",
+      "title": "Arabization of Administration",
+      "period": "Umayyad",
+      "year_hijri": "74 AH",
+      "year_ce": "693 CE",
+      "summary": "Arabic made the official language of government registers.",
+      "detailed_information": "Minted the first purely Islamic dinars.",
+      "important_people": [
+        "Abd al-Malik ibn Marwan"
+      ],
+      "location": "Damascus"
+    },
+    {
+      "id": "u11",
+      "title": "Conquest of Carthage",
+      "period": "Umayyad",
+      "year_hijri": "79 AH",
+      "year_ce": "698 CE",
+      "summary": "Hassan ibn al-Nu'man captures Carthage from Byzantines.",
+      "detailed_information": "Secured North Africa for the Umayyads.",
+      "important_people": [
+        "Hassan ibn al-Nu'man"
+      ],
+      "location": "North Africa"
+    },
+    {
+      "id": "u12",
+      "title": "Conquest of Transoxiana",
+      "period": "Umayyad",
+      "year_hijri": "86 AH",
+      "year_ce": "705 CE",
+      "summary": "Qutayba ibn Muslim begins campaigns in Central Asia.",
+      "detailed_information": "Expanded the empire to the borders of China.",
+      "important_people": [
+        "Qutayba ibn Muslim",
+        "Al-Walid I"
+      ],
+      "location": "Central Asia"
+    },
+    {
+      "id": "u13",
+      "title": "Conquest of Sindh",
+      "period": "Umayyad",
+      "year_hijri": "92 AH",
+      "year_ce": "711 CE",
+      "summary": "Muhammad bin Qasim conquers the Sindh region.",
+      "detailed_information": "Introduced Islam to the Indian subcontinent.",
+      "important_people": [
+        "Muhammad bin Qasim"
+      ],
+      "location": "Sindh (Pakistan)"
+    },
+    {
+      "id": "u14",
+      "title": "Conquest of Al-Andalus",
+      "period": "Umayyad",
+      "year_hijri": "92 AH",
+      "year_ce": "711 CE",
+      "summary": "Tariq ibn Ziyad crosses into Spain.",
+      "detailed_information": "The beginning of 800 years of Islamic presence in Iberia.",
+      "important_people": [
+        "Tariq ibn Ziyad"
+      ],
+      "location": "Iberian Peninsula"
+    },
+    {
+      "id": "u15",
+      "title": "Siege of Constantinople",
+      "period": "Umayyad",
+      "year_hijri": "98 AH",
+      "year_ce": "717 CE",
+      "summary": "Massive land and sea siege of the Byzantine capital.",
+      "detailed_information": "The siege failed, halting Islamic expansion into Eastern Europe.",
+      "important_people": [
+        "Maslama ibn Abd al-Malik",
+        "Leo III"
+      ],
+      "location": "Constantinople"
+    },
+    {
+      "id": "u16",
+      "title": "Reforms of Umar II",
+      "period": "Umayyad",
+      "year_hijri": "99 AH",
+      "year_ce": "717 CE",
+      "summary": "Umar ibn Abd al-Aziz initiates sweeping egalitarian reforms.",
+      "detailed_information": "Abolished unfair taxes on non-Arab converts (Mawali).",
+      "important_people": [
+        "Umar ibn Abd al-Aziz"
+      ],
+      "location": "Damascus"
+    },
+    {
+      "id": "u17",
+      "title": "Battle of Toulouse",
+      "period": "Umayyad",
+      "year_hijri": "102 AH",
+      "year_ce": "721 CE",
+      "summary": "Al-Samh ibn Malik is defeated by Odo of Aquitaine.",
+      "detailed_information": "A significant check on Umayyad expansion in Francia.",
+      "important_people": [
+        "Al-Samh ibn Malik"
+      ],
+      "location": "Toulouse, France"
+    },
+    {
+      "id": "u18",
+      "title": "Battle of Tours (Poitiers)",
+      "period": "Umayyad",
+      "year_hijri": "114 AH",
+      "year_ce": "732 CE",
+      "summary": "Charles Martel defeats the Umayyad army.",
+      "detailed_information": "Halted major Islamic incursions into Western Europe.",
+      "important_people": [
+        "Abdul Rahman Al Ghafiqi",
+        "Charles Martel"
+      ],
+      "location": "Tours, France"
+    },
+    {
+      "id": "u19",
+      "title": "Great Berber Revolt",
+      "period": "Umayyad",
+      "year_hijri": "122 AH",
+      "year_ce": "740 CE",
+      "summary": "Berbers rebel against discriminatory Umayyad policies.",
+      "detailed_information": "Permanently fractured Umayyad control in North Africa.",
+      "important_people": [
+        "Maysara al-Matghari"
+      ],
+      "location": "North Africa / Maghreb"
+    },
+    {
+      "id": "u20",
+      "title": "Abbasid Revolution & Battle of the Zab",
+      "period": "Umayyad",
+      "year_hijri": "132 AH",
+      "year_ce": "750 CE",
+      "summary": "The Abbasids definitively crush the Umayyad army.",
+      "detailed_information": "Caliph Marwan II is killed, ending the Umayyad Caliphate in the East.",
+      "important_people": [
+        "Marwan II",
+        "Abu Muslim al-Khurasani"
+      ],
+      "location": "River Zab, Iraq"
+    },
+    {
+      "id": "a1",
+      "title": "Establishment of the Abbasid Caliphate",
+      "period": "Abbasid",
+      "year_hijri": "132 AH",
+      "year_ce": "750 CE",
+      "summary": "Abu al-Abbas al-Saffah is proclaimed Caliph.",
+      "detailed_information": "Marked a shift towards a more inclusive, cosmopolitan Islamic empire.",
+      "important_people": [
+        "Al-Saffah"
+      ],
+      "location": "Kufa, Iraq"
+    },
+    {
+      "id": "a2",
+      "title": "Founding of Baghdad",
+      "period": "Abbasid",
+      "year_hijri": "145 AH",
+      "year_ce": "762 CE",
+      "summary": "Al-Mansur builds the Round City.",
+      "detailed_information": "Became the world's center of wealth and knowledge.",
+      "important_people": [
+        "Al-Mansur"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a3",
+      "title": "Reign of Harun al-Rashid",
+      "period": "Abbasid",
+      "year_hijri": "170 AH",
+      "year_ce": "786 CE",
+      "summary": "The zenith of Abbasid political and cultural power.",
+      "detailed_information": "Immortalized in the 1001 Nights.",
+      "important_people": [
+        "Harun al-Rashid"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a4",
+      "title": "Fall of the Barmakids",
+      "period": "Abbasid",
+      "year_hijri": "187 AH",
+      "year_ce": "803 CE",
+      "summary": "Harun al-Rashid purges the powerful Barmakid vizier family.",
+      "detailed_information": "A brutal consolidation of absolute caliphal power.",
+      "important_people": [
+        "Harun al-Rashid",
+        "Ja'far al-Barmaki"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a5",
+      "title": "Fourth Fitna (Civil War)",
+      "period": "Abbasid",
+      "year_hijri": "195 AH",
+      "year_ce": "811 CE",
+      "summary": "War between brothers Al-Amin and Al-Ma'mun over succession.",
+      "detailed_information": "Resulted in massive destruction in Baghdad and Al-Ma'mun's victory.",
+      "important_people": [
+        "Al-Amin",
+        "Al-Ma'mun"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a6",
+      "title": "House of Wisdom Expansion",
+      "period": "Abbasid",
+      "year_hijri": "217 AH",
+      "year_ce": "832 CE",
+      "summary": "Al-Ma'mun patronizes the massive translation movement.",
+      "detailed_information": "Greek philosophy and science are heavily translated into Arabic.",
+      "important_people": [
+        "Al-Ma'mun",
+        "Hunayn ibn Ishaq"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a7",
+      "title": "The Mihna (Inquisition)",
+      "period": "Abbasid",
+      "year_hijri": "218 AH",
+      "year_ce": "833 CE",
+      "summary": "Al-Ma'mun enforces the Mu'tazilite doctrine of the created Quran.",
+      "detailed_information": "Ahmad ibn Hanbal is famously tortured for refusing to agree.",
+      "important_people": [
+        "Al-Ma'mun",
+        "Ahmad ibn Hanbal"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a8",
+      "title": "Founding of Samarra",
+      "period": "Abbasid",
+      "year_hijri": "221 AH",
+      "year_ce": "836 CE",
+      "summary": "Al-Mu'tasim moves the capital to Samarra.",
+      "detailed_information": "To house his new, powerful Turkic slave-soldier army (Mamluks).",
+      "important_people": [
+        "Al-Mu'tasim"
+      ],
+      "location": "Samarra, Iraq"
+    },
+    {
+      "id": "a9",
+      "title": "Anarchy at Samarra",
+      "period": "Abbasid",
+      "year_hijri": "247 AH",
+      "year_ce": "861 CE",
+      "summary": "Turkic guards assassinate Caliph Al-Mutawakkil.",
+      "detailed_information": "Initiated a decade of severe political instability.",
+      "important_people": [
+        "Al-Mutawakkil"
+      ],
+      "location": "Samarra"
+    },
+    {
+      "id": "a10",
+      "title": "Zanj Rebellion",
+      "period": "Abbasid",
+      "year_hijri": "255 AH",
+      "year_ce": "869 CE",
+      "summary": "A massive slave revolt in southern Iraq.",
+      "detailed_information": "Severely drained Abbasid resources and lasted 14 years.",
+      "important_people": [
+        "Ali ibn Muhammad"
+      ],
+      "location": "Basra, Iraq"
+    },
+    {
+      "id": "a11",
+      "title": "Rise of the Buyids",
+      "period": "Abbasid",
+      "year_hijri": "334 AH",
+      "year_ce": "945 CE",
+      "summary": "Shi'a Buyid emirs take control of Baghdad.",
+      "detailed_information": "The Abbasid Caliph became merely a figurehead under their control.",
+      "important_people": [
+        "Ahmad ibn Buya",
+        "Al-Mustakfi"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a12",
+      "title": "Fatimid Conquest of Egypt",
+      "period": "Fatimid",
+      "year_hijri": "358 AH",
+      "year_ce": "969 CE",
+      "summary": "Fatimids establish Cairo and Al-Azhar.",
+      "detailed_information": "A direct challenge to Abbasid religious authority.",
+      "important_people": [
+        "Jawhar al-Siqilli"
+      ],
+      "location": "Cairo"
+    },
+    {
+      "id": "a13",
+      "title": "Seljuk Turks Capture Baghdad",
+      "period": "Abbasid",
+      "year_hijri": "447 AH",
+      "year_ce": "1055 CE",
+      "summary": "Tughril Beg drives out the Buyids.",
+      "detailed_information": "Sunni orthodoxy is championed, but the caliph remains politically weak.",
+      "important_people": [
+        "Tughril Beg",
+        "Al-Qa'im"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a14",
+      "title": "Establishment of Al-Nizamiyya",
+      "period": "Abbasid",
+      "year_hijri": "457 AH",
+      "year_ce": "1065 CE",
+      "summary": "Nizam al-Mulk founds a network of Sunni madrasas.",
+      "detailed_information": "Formalized higher Islamic education and countered Shi'a influence.",
+      "important_people": [
+        "Nizam al-Mulk",
+        "Al-Ghazali"
+      ],
+      "location": "Baghdad and Nishapur"
+    },
+    {
+      "id": "a15",
+      "title": "Battle of Manzikert",
+      "period": "Abbasid",
+      "year_hijri": "463 AH",
+      "year_ce": "1071 CE",
+      "summary": "Seljuks crush the Byzantine army.",
+      "detailed_information": "Opened the doors for Turkish migration into Anatolia.",
+      "important_people": [
+        "Alp Arslan"
+      ],
+      "location": "Anatolia"
+    },
+    {
+      "id": "a16",
+      "title": "First Crusade captures Jerusalem",
+      "period": "Abbasid",
+      "year_hijri": "492 AH",
+      "year_ce": "1099 CE",
+      "summary": "Crusaders massacre the inhabitants of Jerusalem.",
+      "detailed_information": "Occurred during deep political fragmentation in the Muslim world.",
+      "important_people": [
+        "Godfrey of Bouillon"
+      ],
+      "location": "Jerusalem"
+    },
+    {
+      "id": "a17",
+      "title": "Salahuddin ends Fatimid Caliphate",
+      "period": "Abbasid",
+      "year_hijri": "567 AH",
+      "year_ce": "1171 CE",
+      "summary": "Salahuddin restores Sunni allegiance in Egypt to the Abbasid Caliph.",
+      "detailed_information": "United Egypt and Syria under one front against the Crusaders.",
+      "important_people": [
+        "Salahuddin (Saladin)"
+      ],
+      "location": "Cairo"
+    },
+    {
+      "id": "a18",
+      "title": "Battle of Hattin",
+      "period": "Abbasid",
+      "year_hijri": "583 AH",
+      "year_ce": "1187 CE",
+      "summary": "Salahuddin recaptures Jerusalem.",
+      "detailed_information": "Effectively destroyed the Crusader Kingdom of Jerusalem.",
+      "important_people": [
+        "Salahuddin (Saladin)"
+      ],
+      "location": "Levant"
+    },
+    {
+      "id": "a19",
+      "title": "Mongol Sack of Baghdad",
+      "period": "Abbasid",
+      "year_hijri": "656 AH",
+      "year_ce": "1258 CE",
+      "summary": "Hulagu Khan destroys Baghdad and executes the Caliph.",
+      "detailed_information": "The brutal end of the unified Abbasid Caliphate and the Golden Age.",
+      "important_people": [
+        "Hulagu Khan",
+        "Al-Musta'sim"
+      ],
+      "location": "Baghdad"
+    },
+    {
+      "id": "a20",
+      "title": "Re-establishment of Abbasids in Cairo",
+      "period": "Abbasid",
+      "year_hijri": "659 AH",
+      "year_ce": "1261 CE",
+      "summary": "Mamluk Sultan Baibars installs an Abbasid survivor as Caliph in Cairo.",
+      "detailed_information": "Provided religious legitimacy to the Mamluk Sultanate.",
+      "important_people": [
+        "Baibars",
+        "Al-Mustansir II"
+      ],
+      "location": "Cairo"
+    }
+  ]
+}
