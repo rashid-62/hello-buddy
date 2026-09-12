@@ -1463,6 +1463,9 @@ body {
     animation: none !important;
     transition: none !important;
     scroll-behavior: auto !important;
+  }
+}
+
 .history-list::-webkit-scrollbar-thumb,
 .chat-stage::-webkit-scrollbar-thumb {
   background: rgba(201, 162, 39, 0.2);
