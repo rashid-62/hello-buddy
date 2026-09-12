@@ -307,6 +307,5 @@ export {
   retrieveKnowledge,
   clearKnowledgeCache,
   selectRelevantFiles,
-  ALL_KNOWLEDGE_FILES,
-  KNOWLEDGE_DIR
+  ALL_KNOWLEDGE_FILES
 };
