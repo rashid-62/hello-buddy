@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Turath — An AI-powered research platform for Islamic history. Explore prophets, caliphates, scholars, dynasties, and classical manuscripts with verifiable sources." />
+  <title>Turath — Islamic History AI Research Platform</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="landing.css?v=2" />
+  <link rel="icon" href="assets/turath-logo.jpg" />
+  
+  <!-- Netlify Identity Widget -->
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+  <!-- Prevent theme flash script -->
+  <script>
+    (function() {
+      var saved = localStorage.getItem('theme_preference');
+      if (saved === 'light') {
+        document.documentElement.classList.add('theme-light');
+      } else {
+        document.documentElement.classList.remove('theme-light');
+      }
+    })();
+  </script>
+</head>
+<body class="landing-page">
+
+  <!-- Skip Link for Accessibility -->
+  <a class="skip-link" href="#hero">Skip to main content</a>
+
+  <!-- Header / Navigation -->
+  <header class="landing-header">
+    <nav class="landing-nav" aria-label="Main Navigation">
+      <a href="#" class="brand" aria-label="Turath Home">
+        <div class="brand-mark">
+          <img src="assets/turath-logo.jpg" alt="Turath Symbol" class="brand-img" />
+        </div>
+        <div class="brand-text">
+          <span class="brand-name">Turath</span>
+          <span class="brand-tag">Islamic History AI</span>
+        </div>
+      </a>
+
+      <!-- Desktop Links -->
+      <div class="landing-nav-links">
+        <a href="#timeline">Chronology</a>
+        <a href="#domains">Domains</a>
+        <a href="#experience">Platform</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+
+      <!-- Header Actions -->
+      <div class="nav-actions">
+        <button type="button" class="icon-btn theme-toggle" id="landingThemeBtn" aria-label="Toggle theme">
+          <svg class="sun-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
+          </svg>
+          <svg class="moon-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;">
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+          </svg>
+        </button>
+
+        <a href="app.html" class="btn-primary-cta">
+          <span>Launch App</span>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </a>
+
+        <!-- Mobile Menu Hamburger Button -->
+        <button type="button" class="icon-btn mobile-menu-toggle" id="mobileMenuBtn" aria-label="Open mobile menu" aria-expanded="false" aria-controls="mobileDrawer">
+          <svg class="menu-open-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+          <svg class="menu-close-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Mobile Navigation Drawer -->
+    <div class="mobile-drawer" id="mobileDrawer" hidden>
+      <div class="mobile-drawer-links">
+        <a href="#timeline" class="mobile-nav-link">Chronology</a>
+        <a href="#domains" class="mobile-nav-link">Domains</a>
+        <a href="#experience" class="mobile-nav-link">Platform</a>
+        <a href="#about" class="mobile-nav-link">About</a>
+        <a href="#contact" class="mobile-nav-link">Contact</a>
+      </div>
+      <div class="mobile-drawer-actions">
+        <a href="app.html" class="btn-primary-cta w-full">
+          <span>Launch Research Assistant</span>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="landing-main">
+
+    <!-- HERO SECTION -->
+    <section class="hero-section" id="hero" aria-label="Hero Section">
+      <div class="hero-container">
+        
+        <!-- Left Hero Column -->
+        <div class="hero-content">
+          <div class="hero-eyebrow">
+            <span class="eyebrow-spark">✦</span>
+            <span>Knowledge-Grounded AI Research</span>
+          </div>
+
+          <h1 class="hero-title">
+            Uncover 1,400 Years of <br />
+            <em class="hero-title-serif">Islamic Civilization</em>
+          </h1>
+
+          <p class="hero-subtitle">
+            A specialized digital historian providing authentic, evidence-backed insights into prophets, caliphates, scholars, dynasties, and classical manuscripts with verifiable citations.
+          </p>
+
+          <div class="hero-actions">
+            <a href="app.html" class="btn-gold-hero">
+              <span>Start Exploring</span>
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="5" y1="12" x2="19" y2="12"></line>
+                <polyline points="12 5 19 12 12 19"></polyline>
+              </svg>
+            </a>
+
+            <a href="#timeline" class="btn-outline-hero">
+              <span>View Chronology</span>
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="12" y1="5" x2="12" y2="19"></line>
+                <polyline points="19 12 12 19 5 12"></polyline>
+              </svg>
+            </a>
+          </div>
+
+          <!-- Micro Highlights -->
+          <div class="hero-trust-row">
+            <div class="trust-pill">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+              <span>500+ Verified Sources</span>
+            </div>
+            <div class="trust-pill">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 16 14"></polyline></svg>
+              <span>Chronological Context</span>
+            </div>
+            <div class="trust-pill">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
+              <span>Scholar Citations</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Hero Column: Animated Astrolabe & Geometric Research Visual -->
+        <div class="hero-visual" aria-hidden="true">
+          <div class="astrolabe-stage">
+            <!-- Background Glow -->
+            <div class="astrolabe-glow"></div>
+            
+            <!-- Outer Geometric Astrolabe SVG -->
+            <svg class="astrolabe-svg" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <!-- Outer Calibration Ring -->
+              <circle cx="250" cy="250" r="235" stroke="var(--gold)" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.4" class="spin-slow" />
+              <circle cx="250" cy="250" r="220" stroke="var(--teal)" stroke-width="1" opacity="0.3" />
+              
+              <!-- Degree Markers -->
+              <g opacity="0.35" stroke="var(--gold)" stroke-width="1">
+                <line x1="250" y1="15" x2="250" y2="30" />
+                <line x1="250" y1="470" x2="250" y2="485" />
+                <line x1="15" y1="250" x2="30" y2="250" />
+                <line x1="470" y1="250" x2="485" y2="250" />
+              </g>
+
+              <!-- Rotating Outer Ring -->
+              <g class="spin-reverse">
+                <circle cx="250" cy="250" r="185" stroke="var(--gold)" stroke-width="1" opacity="0.45" stroke-dasharray="12 8 4 8" />
+                <!-- 8-Pointed Octagram Star Guide Lines -->
+                <rect x="120" y="120" width="260" height="260" rx="4" stroke="var(--border-strong)" stroke-width="1" opacity="0.3" />
+                <rect x="120" y="120" width="260" height="260" rx="4" transform="rotate(45 250 250)" stroke="var(--gold)" stroke-width="1" opacity="0.25" />
+              </g>
+
+              <!-- Inner Astrolabe Rete Arcs -->
+              <g class="spin-slow">
+                <circle cx="250" cy="250" r="130" stroke="var(--teal-soft)" stroke-width="1.5" opacity="0.5" />
+                <path d="M 120 250 A 130 130 0 0 1 380 250" stroke="var(--gold)" stroke-width="1.2" fill="none" opacity="0.6" />
+                <path d="M 250 120 A 130 130 0 0 1 250 380" stroke="var(--gold)" stroke-width="1.2" fill="none" opacity="0.6" />
+                <!-- Pointer Nodes -->
+                <circle cx="250" cy="120" r="4" fill="var(--gold)" />
+                <circle cx="380" cy="250" r="4" fill="var(--gold)" />
+                <circle cx="250" cy="380" r="4" fill="var(--gold)" />
+                <circle cx="120" cy="250" r="4" fill="var(--gold)" />
+              </g>
+
+              <!-- Center Core Motif -->
+              <circle cx="250" cy="250" r="60" stroke="var(--gold)" stroke-width="1.5" fill="var(--bg-card)" opacity="0.9" />
+              <circle cx="250" cy="250" r="12" fill="var(--gold)" />
+              <polygon points="250,210 262,238 290,250 262,262 250,290 238,262 210,250 238,238" fill="none" stroke="var(--gold)" stroke-width="1.2" opacity="0.8" />
+            </svg>
+
+            <!-- Center Brand Emblem Card -->
+            <div class="astrolabe-center-card">
+              <div class="emblem-wrapper">
+                <img src="assets/turath-logo.jpg" alt="Turath Crest" class="emblem-img" />
+              </div>
+              <span class="emblem-title">TURATH AI</span>
+              <span class="emblem-subtitle">Knowledge Retrieval</span>
+            </div>
+
+            <!-- Floating Context Annotations -->
+            <div class="astrolabe-tag tag-top-right">
+              <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path></svg>
+              <span>Ibn Khaldun — Muqaddimah</span>
+            </div>
+            
+            <div class="astrolabe-tag tag-bottom-left">
+              <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+              <span>Semantic Vector RAG</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- METRICS / STATS BAR -->
+    <section class="stats-section" aria-label="Key Metrics">
+      <div class="stats-container">
+        <div class="stat-card">
+          <span class="stat-value">1,400+</span>
+          <span class="stat-label">Years of History</span>
+        </div>
+        <div class="stat-divider" aria-hidden="true"></div>
+        <div class="stat-card">
+          <span class="stat-value">500+</span>
+          <span class="stat-label">Verified Texts</span>
+        </div>
+        <div class="stat-divider" aria-hidden="true"></div>
+        <div class="stat-card">
+          <span class="stat-value">10</span>
+          <span class="stat-label">Research Domains</span>
+        </div>
+        <div class="stat-divider" aria-hidden="true"></div>
+        <div class="stat-card">
+          <span class="stat-value">100%</span>
+          <span class="stat-label">Sourced Citations</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- HISTORICAL CHRONOLOGY RAIL SECTION -->
+    <section class="timeline-section" id="timeline" aria-labelledby="timelineHeading">
+      <div class="section-container">
+        
+        <div class="section-header">
+          <span class="section-eyebrow">HISTORICAL CHRONOLOGY</span>
+          <h2 id="timelineHeading" class="section-title">Explore 14 Centuries of Islamic Eras</h2>
+          <p class="section-subtitle">
+            Navigate through major epochs of scholarship, governance, science, and expansion — all indexed within Turath's knowledge base.
+          </p>
+        </div>
+
+        <div class="timeline-rail">
+          
+          <!-- Era 1 -->
+          <article class="era-card">
+            <div class="era-header">
+              <span class="era-date">570 – 632 CE</span>
+              <span class="era-badge">FOUNDATIONAL</span>
+            </div>
+            <h3 class="era-title">Prophetic Era & Seerah</h3>
+            <p class="era-desc">The advent of Islam, revelation, early community building in Madinah, foundational treaties, and ethical principles.</p>
+            <div class="era-tags">
+              <span>Seerah</span>
+              <span>Madinah Charter</span>
+              <span>Early Treaties</span>
+            </div>
+          </article>
+
+          <!-- Era 2 -->
+          <article class="era-card">
+            <div class="era-header">
+              <span class="era-date">632 – 661 CE</span>
+              <span class="era-badge">ADMINISTRATIVE</span>
+            </div>
+            <h3 class="era-title">Rashidun Caliphate</h3>
+            <p class="era-desc">Governance under the four Rightly Guided Caliphs, compilation of the Qur'an text, and expansion of judicial structures.</p>
+            <div class="era-tags">
+              <span>Abu Bakr</span>
+              <span>'Umar's Reforms</span>
+              <span>Mus'haf Standardization</span>
+            </div>
+          </article>
+
+          <!-- Era 3 -->
+          <article class="era-card">
+            <div class="era-header">
+              <span class="era-date">661 – 750 CE</span>
+              <span class="era-badge">EXPANSION</span>
+            </div>
+            <h3 class="era-title">Umayyad Dynasty</h3>
+            <p class="era-desc">Establishment of Damascus as imperial center, introduction of Arabic coinage, early Islamic architecture, and global trade corridors.</p>
+            <div class="era-tags">
+              <span>Dome of the Rock</span>
+              <span>Damascus</span>
+              <span>Coinage Reforms</span>
+            </div>
+          </article>
+
+          <!-- Era 4 -->
+          <article class="era-card highlight-card">
+            <div class="era-header">
+              <span class="era-date">750 – 1258 CE</span>
+              <span class="era-badge gold-badge">GOLDEN AGE</span>
+            </div>
+            <h3 class="era-title">Abbasid Caliphate</h3>
+            <p class="era-desc">The House of Wisdom (Bayt al-Hikmah) in Baghdad, algebra, optics, medicine, translation movement, and classical jurisprudential schools.</p>
+            <div class="era-tags">
+              <span>Bayt al-Hikmah</span>
+              <span>Al-Khwarizmi</span>
+              <span>Ibn Sina</span>
+            </div>
+          </article>
+
+          <!-- Era 5 -->
+          <article class="era-card">
+            <div class="era-header">
+              <span class="era-date">711 – 1492 CE</span>
+              <span class="era-badge">CULTURAL</span>
+            </div>
+            <h3 class="era-title">Al-Andalus & Iberian Science</h3>
+            <p class="era-desc">Centuries of intellectual flourishing in Cordoba, Granada, and Seville. Botanical gardens, astronomy, and cross-cultural philosophy.</p>
+            <div class="era-tags">
+              <span>Great Mosque Cordoba</span>
+              <span>Ibn Rushd</span>
+              <span>Al-Zahrawi</span>
+            </div>
+          </article>
+
+          <!-- Era 6 -->
+          <article class="era-card">
+            <div class="era-header">
+              <span class="era-date">1299 – 1922 CE</span>
+              <span class="era-badge">IMPERIAL</span>
+            </div>
+            <h3 class="era-title">Ottoman, Safavid & Mughal Eras</h3>
+            <p class="era-desc">Monumental architecture, diplomatic archives, imperial legal codes (Kanun), illuminated manuscripts, and global trade networks.</p>
+            <div class="era-tags">
+              <span>Suleiman the Magnificent</span>
+              <span>Sinan Architecture</span>
+              <span>Manuscript Archives</span>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- KNOWLEDGE DOMAINS GRID SECTION -->
+    <section class="domains-section" id="domains" aria-labelledby="domainsHeading">
+      <div class="section-container">
+        
+        <div class="section-header">
+          <span class="section-eyebrow">RESEARCH DOMAINS</span>
+          <h2 id="domainsHeading" class="section-title">Specialized Knowledge Coverage</h2>
+          <p class="section-subtitle">
+            Turath is domain-bound to Islamic history, ensuring high-fidelity responses grounded in authentic classical scholarship.
+          </p>
+        </div>
+
+        <div class="domains-grid">
+
+          <!-- Domain 1 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+              </svg>
+            </div>
+            <h3 class="domain-title">Prophets & Prophetic Seerah</h3>
+            <p class="domain-desc">Biographical chronologies, historical contexts, treaties, companions, and early community development.</p>
+          </div>
+
+          <!-- Domain 2 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+              </svg>
+            </div>
+            <h3 class="domain-title">Caliphates & Dynasties</h3>
+            <p class="domain-desc">Political lineages, imperial governance, administrative reforms, and diplomatic relations across centuries.</p>
+          </div>
+
+          <!-- Domain 3 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 20h9"></path>
+                <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+              </svg>
+            </div>
+            <h3 class="domain-title">Scholars & Intellectual Traditions</h3>
+            <p class="domain-desc">Biographies, major treatises, juristic schools (Fiqh), theology (Kalam), and Hadith compilation histories.</p>
+          </div>
+
+          <!-- Domain 4 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle><path d="M8 12 h8"></path><path d="M12 8 v8"></path>
+              </svg>
+            </div>
+            <h3 class="domain-title">Science, Medicine & Optics</h3>
+            <p class="domain-desc">Pioneers of algebra, astronomy, surgical instruments, optics, pharmacology, and hospital systems.</p>
+          </div>
+
+          <!-- Domain 5 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+                <polyline points="2 17 12 22 22 17"></polyline>
+                <polyline points="2 12 12 17 22 12"></polyline>
+              </svg>
+            </div>
+            <h3 class="domain-title">Architecture & Urban Planning</h3>
+            <p class="domain-desc">Evolution of domes, minarets, madrasas, caravanserais, aqueducts, and geometric tilework design.</p>
+          </div>
+
+          <!-- Domain 6 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+              </svg>
+            </div>
+            <h3 class="domain-title">Geography & Trade Routes</h3>
+            <p class="domain-desc">The Silk Road, Indian Ocean trade networks, pilgrimage routes, and travelogues of Ibn Battuta & Al-Idrisi.</p>
+          </div>
+
+          <!-- Domain 7 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="4" width="18" height="16" rx="2"></rect>
+                <line x1="7" y1="8" x2="17" y2="8"></line>
+                <line x1="7" y1="12" x2="17" y2="12"></line>
+                <line x1="7" y1="16" x2="13" y2="16"></line>
+              </svg>
+            </div>
+            <h3 class="domain-title">Classical Source Citations</h3>
+            <p class="domain-desc">Direct retrieval from classical texts including Al-Tabari, Ibn Kathir, Ibn Khaldun, and Al-Dhahabi.</p>
+          </div>
+
+          <!-- Domain 8 -->
+          <div class="domain-card">
+            <div class="domain-icon-wrap">
+              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+            </div>
+            <h3 class="domain-title">Manuscript & PDF Analysis</h3>
+            <p class="domain-desc">Vision-capable AI processing for uploaded manuscript photos, historical maps, and research documents.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- AI PRODUCT EXPERIENCE PREVIEW SECTION -->
+    <section class="experience-section" id="experience" aria-labelledby="expHeading">
+      <div class="section-container">
+        
+        <div class="section-header">
+          <span class="section-eyebrow">RESEARCH EXPERIENCE</span>
+          <h2 id="expHeading" class="section-title">Engineered for Rigorous Scholarship</h2>
+          <p class="section-subtitle">
+            Experience an AI interface designed specifically for historians, students, and curious minds seeking verifiable clarity.
+          </p>
+        </div>
+
+        <div class="exp-grid">
+          
+          <!-- Mock Interface Window -->
+          <div class="mock-window">
+            <div class="window-topbar">
+              <div class="window-dots">
+                <span class="dot red"></span>
+                <span class="dot yellow"></span>
+                <span class="dot green"></span>
+              </div>
+              <span class="window-title">Turath AI — Scholar Mode Active</span>
+              <span class="window-badge">RAG VERIFIED</span>
+            </div>
+
+            <div class="window-body">
+              
+              <!-- Sample User Query -->
+              <div class="mock-msg user-msg">
+                <div class="msg-avatar">YOU</div>
+                <div class="msg-content">
+                  What factors enabled the Translation Movement to flourish in 9th-century Baghdad under Caliph Al-Ma'mun?
+                </div>
+              </div>
+
+              <!-- Sample AI Response -->
+              <div class="mock-msg ai-msg">
+                <div class="msg-avatar ai-avatar">
+                  <img src="assets/turath-logo.jpg" alt="Turath Logo" />
+                </div>
+                <div class="msg-content">
+                  <div class="citation-strip">
+                    <span class="citation-tag">RETRIEVED FROM: Ibn al-Nadim (Kitab al-Fihrist) §4.2</span>
+                    <span class="uncertainty-tag">HISTORICAL CONSENSUS</span>
+                  </div>
+                  <p>
+                    The Translation Movement in Baghdad reached its zenith during the reign of Abbasid Caliph <strong>Al-Ma'mun (r. 813–833 CE)</strong> due to three primary catalysts:
+                  </p>
+                  <ol class="mock-list">
+                    <li><strong>Institutional Patronage (Bayt al-Hikmah):</strong> Generous state funding for translators like Hunayn ibn Ishaq, who were compensated by weight in gold for translated manuscripts.</li>
+                    <li><strong>Paper Technology:</strong> The establishment of Baghdad's first paper mills (introduced from Samarkand) drastically reduced manuscript copying costs.</li>
+                    <li><strong>Scientific Demand:</strong> Practical administrative needs in astronomy for qibla calculation, optics, and medical treatises.</li>
+                  </ol>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- Feature Highlights List -->
+          <div class="exp-features">
+            
+            <div class="exp-feature-item">
+              <div class="exp-icon">
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+              </div>
+              <div>
+                <h4>Retrieval-Augmented Precision (RAG)</h4>
+                <p>Answers are cross-referenced against vetted historical corpora, protecting against hallucinations.</p>
+              </div>
+            </div>
+
+            <div class="exp-feature-item">
+              <div class="exp-icon">
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line></svg>
+              </div>
+              <div>
+                <h4>Multimodal Document Analysis</h4>
+                <p>Upload photos of classical manuscripts, maps, or research PDFs for immediate AI synthesis.</p>
+              </div>
+            </div>
+
+            <div class="exp-feature-item">
+              <div class="exp-icon">
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 8v4l3 3"></path></svg>
+              </div>
+              <div>
+                <h4>Dedicated Scholar Mode</h4>
+                <p>Unlock deeper source excerpts, historiographical comparisons, and multi-text cross-checking.</p>
+              </div>
+            </div>
+
+            <div class="exp-feature-item">
+              <div class="exp-icon">
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+              </div>
+              <div>
+                <h4>Local Storage & JSON Export</h4>
+                <p>Your research history is stored privately in your browser with full JSON export capabilities.</p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT / MISSION SECTION -->
+    <section class="about-section" id="about" aria-labelledby="aboutHeading">
+      <div class="section-container">
+        
+        <div class="about-grid">
+          
+          <div class="about-content">
+            <span class="section-eyebrow">HERITAGE & MISSION</span>
+            <h2 id="aboutHeading" class="section-title">Rooted in Heritage, Powered by Intelligence</h2>
+            
+            <p class="about-lead">
+              <strong>Turath (تراث)</strong> translates to <em>heritage</em> in Arabic. Our mission is to bridge modern artificial intelligence with authentic classical scholarship — making 1,400 years of history accessible, engaging, and faithful.
+            </p>
+
+            <p class="about-body">
+              Whether you are researching the biographical detail of an early scholar, analyzing economic trade networks in Al-Andalus, or studying manuscript illuminations, Turath provides a calm, credible research companion.
+            </p>
+
+            <div class="about-actions">
+              <a href="app.html" class="btn-gold-hero">
+                <span>Start Researching Now</span>
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+              </a>
+            </div>
+          </div>
+
+          <!-- Value Props Column -->
+          <div class="about-props">
+            
+            <div class="prop-card">
+              <div class="prop-icon">✦</div>
+              <div>
+                <h4>Fidelity & Accuracy</h4>
+                <p>We prioritize historical accuracy over speculative generation, maintaining strict source grounding.</p>
+              </div>
+            </div>
+
+            <div class="prop-card">
+              <div class="prop-icon">✦</div>
+              <div>
+                <h4>Transparent Sourcing</h4>
+                <p>Every response clearly links to the primary or secondary text from which information was retrieved.</p>
+              </div>
+            </div>
+
+            <div class="prop-card">
+              <div class="prop-icon">✦</div>
+              <div>
+                <h4>Respectful Scholarship</h4>
+                <p>Designed with deep reverence for Islamic heritage, classical scholars, and intellectual traditions.</p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- FINAL CALL TO ACTION & CONTACT -->
+    <section class="cta-section" id="contact" aria-label="Call to Action">
+      <div class="cta-container">
+        <div class="cta-box">
+          <div class="cta-ornament">✦ ✦ ✦</div>
+          <h2 class="cta-title">Begin Your Journey into Islamic History</h2>
+          <p class="cta-desc">
+            Explore caliphates, scholars, battles, and classical manuscripts with a knowledge-grounded AI assistant.
+          </p>
+
+          <div class="cta-buttons">
+            <a href="app.html" class="btn-gold-hero">
+              <span>Launch Research Platform</span>
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </a>
+          </div>
+
+          <div class="contact-link-row">
+            <span>Have questions or feedback?</span>
+            <a href="mailto:support@turath.ai" class="contact-email">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+              <span>support@turath.ai</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="landing-footer" aria-label="Footer">
+    <div class="footer-container">
+      
+      <div class="footer-brand-col">
+        <div class="brand">
+          <img src="assets/turath-logo.jpg" alt="Turath Logo" class="brand-img" />
+          <span class="brand-name">Turath</span>
+        </div>
+        <p class="footer-tagline">
+          AI-Powered Research for Islamic History & Scholarship.
+        </p>
+      </div>
+
+      <div class="footer-links-col">
+        <a href="#hero">Back to Top</a>
+        <a href="#timeline">Chronology</a>
+        <a href="#domains">Domains</a>
+        <a href="#experience">Platform</a>
+        <a href="app.html">Launch App</a>
+      </div>
+
+      <div class="footer-copy-col">
+        <p class="footer-copy">&copy; All rights reserved. EFE HARAFISH</p>
+      </div>
+
+    </div>
+  </footer>
+
+  <!-- Interactivity Script for Landing Page (Theme & Mobile Menu) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // 1. Theme Toggle Logic
+      const themeBtn = document.getElementById('landingThemeBtn');
+      const sunIcon = themeBtn ? themeBtn.querySelector('.sun-icon') : null;
+      const moonIcon = themeBtn ? themeBtn.querySelector('.moon-icon') : null;
+
+      function updateThemeIcons() {
+        const isLight = document.documentElement.classList.contains('theme-light');
+        if (sunIcon && moonIcon) {
+          if (isLight) {
+            sunIcon.style.display = 'none';
+            moonIcon.style.display = 'block';
+          } else {
+            sunIcon.style.display = 'block';
+            moonIcon.style.display = 'none';
+          }
+        }
+      }
+
+      if (themeBtn) {
+        updateThemeIcons();
+        themeBtn.addEventListener('click', function() {
+          const isLight = document.documentElement.classList.contains('theme-light');
+          if (isLight) {
+            document.documentElement.classList.remove('theme-light');
+            localStorage.setItem('theme_preference', 'dark');
+          } else {
+            document.documentElement.classList.add('theme-light');
+            localStorage.setItem('theme_preference', 'light');
+          }
+          updateThemeIcons();
+        });
+      }
+
+      // 2. Mobile Menu Toggle
+      const mobileBtn = document.getElementById('mobileMenuBtn');
+      const mobileDrawer = document.getElementById('mobileDrawer');
+      const openIcon = mobileBtn ? mobileBtn.querySelector('.menu-open-icon') : null;
+      const closeIcon = mobileBtn ? mobileBtn.querySelector('.menu-close-icon') : null;
+
+      if (mobileBtn && mobileDrawer) {
+        mobileBtn.addEventListener('click', function() {
+          const isExpanded = mobileBtn.getAttribute('aria-expanded') === 'true';
+          mobileBtn.setAttribute('aria-expanded', !isExpanded);
+          mobileDrawer.hidden = isExpanded;
+
+          if (openIcon && closeIcon) {
+            openIcon.style.display = isExpanded ? 'block' : 'none';
+            closeIcon.style.display = isExpanded ? 'none' : 'block';
+          }
+        });
+
+        // Close drawer when link is clicked
+        const drawerLinks = mobileDrawer.querySelectorAll('a');
+        drawerLinks.forEach(link => {
+          link.addEventListener('click', () => {
+            mobileDrawer.hidden = true;
+            mobileBtn.setAttribute('aria-expanded', 'false');
+            if (openIcon && closeIcon) {
+              openIcon.style.display = 'block';
+              closeIcon.style.display = 'none';
+            }
+          });
+        });
+      }
+
+      // 3. Netlify Identity Integration
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/app.html";
+            });
+          }
+        });
+        window.netlifyIdentity.init();
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "collection": "ayyubids",
+  "entries": [
+    {
+      "id": "ayyubid-overview",
+      "title": "The Ayyubid Dynasty",
+      "period": "Ayyubid Period",
+      "year_hijri": "567–648 AH (approx.)",
+      "year_ce": "1171–1260 CE (approx.)",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ayyubid",
+        "Ayyubids",
+        "Salahuddin",
+        "Saladin",
+        "Jerusalem",
+        "Crusades"
+      ],
+      "summary": "The Ayyubids, founded by Salahuddin (Saladin), ruled Egypt, Syria, and neighboring lands after ending Fatimid rule, and are famous for confronting the Crusader states.",
+      "detailed_information": "Salahuddin abolished the Fatimid caliphate in Egypt (1171), restored Sunni Abbasid allegiance, and unified large parts of Syria and Egypt. In 1187 he recaptured Jerusalem after the Battle of Hattin. The Third Crusade followed, ending in negotiated truces rather than permanent Crusader recovery of Jerusalem. After Salahuddin's death (1193), Ayyubid territories fragmented among relatives and were later replaced in Egypt by the Mamluks.",
+      "important_people": [
+        "Salahuddin Ayyubi",
+        "Nur al-Din (predecessor context)",
+        "al-Adil",
+        "al-Kamil"
+      ],
+      "location": "Egypt, Syria, Yemen and adjacent regions at various times",
+      "historical_significance": "Central Muslim dynasty of the Crusades era; restored Jerusalem to Muslim rule in 1187.",
+      "related_questions": [
+        "Tell me about Salahuddin Ayyubi.",
+        "What happened at the Battle of Hattin?",
+        "Who were the Mamluks?"
+      ],
+      "sources": [
+        {
+          "author": "Contemporary and near-contemporary biographers",
+          "work": "Biographies of Salahuddin; Crusades-era chronicles",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Shaddad, The Rare and Excellent History of Saladin"
+    },
+    {
+      "id": "salahuddin-ayyubi",
+      "title": "Salahuddin Ayyubi (Saladin)",
+      "period": "Ayyubid Period",
+      "year_hijri": "d. 589 AH",
+      "year_ce": "1137/38–1193 CE",
+      "category": "ruler",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Salahuddin",
+        "Saladin",
+        "Jerusalem",
+        "Hattin",
+        "Ayyubid",
+        "Crusades"
+      ],
+      "summary": "Salahuddin Ayyubi was the Kurdish Muslim commander and sultan who founded Ayyubid rule, defeated Crusaders at Hattin, and retook Jerusalem in 1187 CE.",
+      "detailed_information": "Rising in the service of Nur al-Din's orbit, Salahuddin became ruler of Egypt and later Syria. He is remembered in both Islamic and European historical memory — in the latter often for chivalry narratives, which should be treated carefully as literary constructions. After 1187, he faced the Third Crusade led by figures such as Richard I. He died in Damascus in 1193. After his death, his relatives divided the realm, weakening centralized Ayyubid power.",
+      "important_people": [
+        "Salahuddin",
+        "Richard I (Crusader counterpart)",
+        "Ayyubid princes"
+      ],
+      "location": "Egypt, Syria, Palestine",
+      "historical_significance": "Iconic leader of Muslim resistance during the Crusades and restorer of Jerusalem.",
+      "related_questions": [
+        "What happened after Salahuddin's death?",
+        "What was the Battle of Hattin?",
+        "How did the Ayyubids relate to the Fatimids?"
+      ],
+      "sources": [
+        {
+          "author": "Baha al-Din ibn Shaddad and other biographers",
+          "work": "Life of Salahuddin",
+          "type": "classical biography",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Shaddad, The Rare and Excellent History of Saladin"
+    },
+    {
+      "id": "battle-hattin",
+      "title": "Battle of Hattin",
+      "period": "Ayyubid Period",
+      "year_hijri": "583 AH",
+      "year_ce": "1187 CE",
+      "category": "battle",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Hattin",
+        "1187",
+        "Jerusalem",
+        "Crusaders",
+        "Salahuddin"
+      ],
+      "summary": "The Battle of Hattin (1187) was Salahuddin's decisive victory over Crusader forces, enabling the Muslim recovery of Jerusalem later that year.",
+      "detailed_information": "Crusader armies were defeated near the Horns of Hattin in a campaign shaped by heat, water access, and tactical encirclement according to classical accounts. The defeat crippled Crusader military capacity in the region and opened the path to Jerusalem's surrender to Salahuddin.",
+      "important_people": [
+        "Salahuddin",
+        "Guy of Lusignan",
+        "Crusader leadership"
+      ],
+      "location": "Near the Horns of Hattin, Galilee",
+      "historical_significance": "Decisive military turning point of the Crusades in the Levant.",
+      "related_questions": [
+        "Tell me about Salahuddin Ayyubi.",
+        "What was the Third Crusade?",
+        "Who were the Ayyubids?"
+      ],
+      "sources": [
+        {
+          "author": "Islamic and Crusader chronicles",
+          "work": "Accounts of Hattin and 1187",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Shaddad, The Rare and Excellent History of Saladin"
+    }
+  ]
+}

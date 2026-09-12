@@ -1,0 +1,431 @@
+{
+  "schema_version": "1.0",
+  "collection": "timeline",
+  "notes": "Compact chronological anchors for timeline-mode answers. Dates follow widely cited traditional/historical conventions; some early dates are approximate.",
+  "entries": [
+    {
+      "id": "tl-570",
+      "title": "Birth of Prophet Muhammad ﷺ (traditional)",
+      "period": "Pre-prophetic",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "c. 570 CE",
+      "category": "timeline",
+      "certainty": "traditional_account",
+      "keywords": [
+        "timeline",
+        "birth",
+        "570",
+        "Muhammad"
+      ],
+      "summary": "Traditional dating places the Prophet's birth around 570 CE (Year of the Elephant).",
+      "detailed_information": "Used as a chronological anchor in Seerah timelines. Exact conversion can vary slightly.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah",
+      "historical_significance": "Start of the Prophetic biography timeline.",
+      "related_questions": [
+        "When did revelation begin?",
+        "Explain the Hijrah."
+      ],
+      "sources": [
+        {
+          "author": "Seerah tradition",
+          "work": "Classical sirah chronologies",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-610",
+      "title": "Beginning of Revelation",
+      "period": "Makkan Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "610 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "610",
+        "revelation",
+        "Hira"
+      ],
+      "summary": "First revelation at Cave Hira in 610 CE.",
+      "detailed_information": "Marks the beginning of prophethood in Islamic historical timelines.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Cave Hira",
+      "historical_significance": "Start of Islamic revelation.",
+      "related_questions": [
+        "What was the Makkan period?",
+        "Explain the Hijrah."
+      ],
+      "sources": [
+        {
+          "author": "Seerah tradition",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-622",
+      "title": "Hijrah to Madinah",
+      "period": "Medinan Period begins",
+      "year_hijri": "1 AH",
+      "year_ce": "622 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "622",
+        "Hijrah",
+        "Madinah"
+      ],
+      "summary": "Migration to Madinah; start of Hijri calendar.",
+      "detailed_information": "Primary chronological epoch for Islamic history.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Madinah",
+      "historical_significance": "Calendar epoch and community transformation.",
+      "related_questions": [
+        "What was the Battle of Badr?",
+        "What was the Constitution of Madinah?"
+      ],
+      "sources": [
+        {
+          "author": "Seerah tradition",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-624",
+      "title": "Battle of Badr",
+      "period": "Medinan Period",
+      "year_hijri": "2 AH",
+      "year_ce": "624 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "Badr",
+        "624"
+      ],
+      "summary": "First major battle; Muslim victory at Badr.",
+      "detailed_information": "Key early Medinan military event.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Badr",
+      "historical_significance": "Early military turning point.",
+      "related_questions": [
+        "What was Uhud?",
+        "Explain the Hijrah."
+      ],
+      "sources": [
+        {
+          "author": "Seerah tradition",
+          "work": "Maghazi",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-630",
+      "title": "Conquest of Makkah",
+      "period": "Late Medinan",
+      "year_hijri": "8 AH",
+      "year_ce": "630 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "Makkah",
+        "630",
+        "conquest"
+      ],
+      "summary": "Muslims enter Makkah; idols removed from the Kaaba.",
+      "detailed_information": "Major political-religious turning point of the Seerah.",
+      "important_people": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah",
+      "historical_significance": "Consolidation of Hijaz under Islam.",
+      "related_questions": [
+        "What was Hudaybiyyah?",
+        "What was the Farewell Pilgrimage?"
+      ],
+      "sources": [
+        {
+          "author": "Seerah tradition",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-632",
+      "title": "Death of Prophet Muhammad ﷺ / Start of Rashidun",
+      "period": "End of Prophetic era",
+      "year_hijri": "11 AH",
+      "year_ce": "632 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "632",
+        "death",
+        "Rashidun"
+      ],
+      "summary": "Prophet dies in Madinah; Abu Bakr becomes first caliph in Sunni historical narrative.",
+      "detailed_information": "Opens caliphal era; succession interpreted differently across traditions.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Bakr"
+      ],
+      "location": "Madinah",
+      "historical_significance": "Transition from prophethood to caliphate era.",
+      "disputed_notes": "Succession narratives differ between Sunni and Shia traditions.",
+      "related_questions": [
+        "What were the Ridda Wars?",
+        "What was the Rashidun Caliphate?"
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Early Islamic histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-661",
+      "title": "Beginning of Umayyad Caliphate",
+      "period": "Umayyad",
+      "year_hijri": "41 AH",
+      "year_ce": "661 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "661",
+        "Umayyad",
+        "Muawiya"
+      ],
+      "summary": "Muawiya establishes Umayyad dynastic rule centered on Damascus.",
+      "detailed_information": "Marks shift toward hereditary caliphate.",
+      "important_people": [
+        "Muawiya I"
+      ],
+      "location": "Damascus",
+      "historical_significance": "Start of first Islamic dynasty.",
+      "related_questions": [
+        "What was the Umayyad Caliphate?",
+        "What was the First Fitna?"
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Dynastic histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-750",
+      "title": "Abbasid Revolution",
+      "period": "Dynastic transition",
+      "year_hijri": "132 AH",
+      "year_ce": "750 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "750",
+        "Abbasid",
+        "revolution"
+      ],
+      "summary": "Abbasids overthrow Umayyads in the east (750 CE).",
+      "detailed_information": "Begins Baghdad-centered classical caliphate era.",
+      "important_people": [
+        "al-Saffah",
+        "Abu Muslim"
+      ],
+      "location": "Iraq / Khurasan",
+      "historical_significance": "Major dynastic change.",
+      "related_questions": [
+        "What was the Abbasid Golden Age?",
+        "What was al-Andalus?"
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Abbasid Revolution accounts",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-1258",
+      "title": "Mongol Sack of Baghdad",
+      "period": "Late Abbasid",
+      "year_hijri": "656 AH",
+      "year_ce": "1258 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "1258",
+        "Baghdad",
+        "Mongols"
+      ],
+      "summary": "Mongols sack Baghdad; classical Abbasid caliphate in Iraq ends.",
+      "detailed_information": "Major chronological marker of late medieval Islamic history.",
+      "important_people": [
+        "Hulagu",
+        "al-Musta'sim"
+      ],
+      "location": "Baghdad",
+      "historical_significance": "End of Baghdad Abbasid political center.",
+      "related_questions": [
+        "What was Ayn Jalut?",
+        "Who were the Mamluks?"
+      ],
+      "sources": [
+        {
+          "author": "Medieval chroniclers",
+          "work": "1258 accounts",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-1453",
+      "title": "Ottoman Conquest of Constantinople",
+      "period": "Ottoman rise",
+      "year_hijri": "857 AH",
+      "year_ce": "1453 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "1453",
+        "Constantinople",
+        "Ottoman"
+      ],
+      "summary": "Mehmed II conquers Constantinople.",
+      "detailed_information": "Byzantine Empire ends; Istanbul becomes Ottoman capital.",
+      "important_people": [
+        "Mehmed II"
+      ],
+      "location": "Constantinople",
+      "historical_significance": "World-historical turning point.",
+      "related_questions": [
+        "How did the Ottoman Empire begin?",
+        "Who was Suleiman?"
+      ],
+      "sources": [
+        {
+          "author": "Ottoman/Byzantine accounts",
+          "work": "1453 narratives",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-1492",
+      "title": "Fall of Granada",
+      "period": "End of al-Andalus",
+      "year_hijri": "897 AH",
+      "year_ce": "1492 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "1492",
+        "Granada",
+        "Andalus"
+      ],
+      "summary": "Nasrid Granada falls; Muslim rule in Iberia ends.",
+      "detailed_information": "Conventional end date of al-Andalus as a Muslim polity.",
+      "important_people": [
+        "Abu Abdallah (Boabdil)"
+      ],
+      "location": "Granada",
+      "historical_significance": "End of Islamic political rule in Spain.",
+      "related_questions": [
+        "What was al-Andalus?",
+        "What was the Caliphate of Cordoba?"
+      ],
+      "sources": [
+        {
+          "author": "Iberian chronicles",
+          "work": "Accounts of 1492",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "tl-1526",
+      "title": "Mughal Empire Founded",
+      "period": "Mughal",
+      "year_hijri": "932 AH",
+      "year_ce": "1526 CE",
+      "category": "timeline",
+      "certainty": "established_traditional",
+      "keywords": [
+        "timeline",
+        "1526",
+        "Babur",
+        "Mughal",
+        "Panipat"
+      ],
+      "summary": "Babur wins at Panipat and founds Mughal rule in India.",
+      "detailed_information": "Start of Mughal imperial timeline in South Asia.",
+      "important_people": [
+        "Babur"
+      ],
+      "location": "Panipat / North India",
+      "historical_significance": "Foundation of a major Islamic empire in India.",
+      "related_questions": [
+        "Who was Akbar?",
+        "What was the Mughal Empire?"
+      ],
+      "sources": [
+        {
+          "author": "Babur",
+          "work": "Baburnama tradition",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    }
+  ]
+}

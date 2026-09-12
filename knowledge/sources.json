@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "collection": "sources",
+  "notes": "Master list of source categories. Individual knowledge entries may reference these. Do not invent detailed page citations. Human researchers should verify before production academic use.",
+  "entries": [
+    {
+      "id": "source-ibn-hisham",
+      "title": "Ibn Hisham — Sirah",
+      "period": "Classical",
+      "year_hijri": "d. 218 AH",
+      "year_ce": "d. 833 CE",
+      "category": "source",
+      "certainty": "classical",
+      "keywords": [
+        "Ibn Hisham",
+        "Sirah",
+        "seerah",
+        "sources"
+      ],
+      "summary": "Ibn Hisham's redaction of Ibn Ishaq's prophetic biography is a foundational classical Seerah source.",
+      "detailed_information": "Widely used for early Makkan and Medinan narrative history. Like all early sources, reports vary in chains and detail; critical method is required.",
+      "important_people": [
+        "Ibn Ishaq",
+        "Ibn Hisham"
+      ],
+      "location": "Classical Islamic scholarship",
+      "historical_significance": "Core reference for Seerah studies.",
+      "related_questions": [
+        "What sources describe the Hijrah?",
+        "How should classical seerah be used carefully?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Hisham",
+          "work": "Sirat Rasul Allah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Al-Sakhawi, Al-I'lan bi't-Tawbikh"
+    },
+    {
+      "id": "source-tabari",
+      "title": "Al-Tabari — History",
+      "period": "Classical",
+      "year_hijri": "d. 310 AH",
+      "year_ce": "d. 923 CE",
+      "category": "source",
+      "certainty": "classical",
+      "keywords": [
+        "Tabari",
+        "Tarikh",
+        "sources",
+        "history"
+      ],
+      "summary": "Al-Tabari's universal history compiles many earlier reports on prophets, the Prophet's life, and early caliphates.",
+      "detailed_information": "Valuable as a report collection; includes multiple, sometimes conflicting, narrations. Historians treat it as a source anthology requiring critical reading.",
+      "important_people": [
+        "al-Tabari"
+      ],
+      "location": "Baghdad scholarly world",
+      "historical_significance": "Landmark chronicle for early Islamic history.",
+      "related_questions": [
+        "How do historians handle conflicting reports?",
+        "What was the Rashidun Caliphate?"
+      ],
+      "sources": [
+        {
+          "author": "al-Tabari",
+          "work": "Tarikh al-Rusul wa al-Muluk",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Al-Sakhawi, Al-I'lan bi't-Tawbikh"
+    },
+    {
+      "id": "source-usage-warning",
+      "title": "How this project treats sources",
+      "period": "Project methodology",
+      "year_hijri": null,
+      "year_ce": "2026",
+      "category": "methodology",
+      "certainty": "established_traditional",
+      "keywords": [
+        "sources",
+        "verification",
+        "methodology",
+        "warning"
+      ],
+      "summary": "Islamic History AI grounds answers in curated JSON knowledge. AI-generated or hastily compiled historical notes must be reviewed by qualified human researchers before being treated as authoritative.",
+      "detailed_information": "Source entries may be marked needs_verification. The chatbot must not fabricate citations. College competition demos should clearly disclose that the knowledge base is curated and expandable.",
+      "important_people": [],
+      "location": "n/a",
+      "historical_significance": "Supports academic honesty and upgrade path for verified scholarship.",
+      "related_questions": [
+        "How do I add new knowledge entries?",
+        "Why do historical sources differ?"
+      ],
+      "sources": [
+        {
+          "author": "Project maintainers",
+          "work": "Islamic History AI README — Historical Accuracy Warning",
+          "type": "project documentation",
+          "verification_status": "project"
+        }
+      ],
+      "source": "Al-Sakhawi, Al-I'lan bi't-Tawbikh"
+    }
+  ]
+}

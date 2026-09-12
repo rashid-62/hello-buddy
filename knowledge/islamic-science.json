@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "collection": "islamic-science",
+  "entries": [
+    {
+      "id": "islamic-golden-age-science",
+      "title": "Islamic Golden Age of Science",
+      "period": "Classical Islamic civilization (esp. 8th–13th centuries CE)",
+      "year_hijri": "c. 2nd–7th centuries AH",
+      "year_ce": "c. 8th–13th centuries CE",
+      "category": "science",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Golden Age",
+        "science",
+        "medicine",
+        "astronomy",
+        "mathematics",
+        "algebra",
+        "translation"
+      ],
+      "summary": "The Islamic Golden Age refers to a long period when scholars in Muslim societies made major advances in medicine, mathematics, astronomy, optics, chemistry, and philosophy, often building on Greek, Persian, and Indian knowledge.",
+      "detailed_information": "Centers such as Baghdad, Cordoba, Cairo, and later Samarkand supported hospitals, observatories, libraries, and scholarly networks. The translation movement into Arabic preserved and transformed earlier sciences. Algebra, experimental optics, medical encyclopedias, and refined astronomy are among notable contributions. The phrase 'Golden Age' is a modern historical label; flourishing was uneven across time and region.",
+      "important_people": [
+        "al-Khwarizmi",
+        "Ibn Sina",
+        "Ibn al-Haytham",
+        "al-Razi",
+        "Ibn Rushd"
+      ],
+      "location": "Across Islamic lands — Iraq, Persia, Egypt, al-Andalus, Central Asia",
+      "historical_significance": "Shaped global scientific history and later European learning via transmission.",
+      "disputed_notes": "Chronological boundaries of a single 'Golden Age' are debated by historians.",
+      "related_questions": [
+        "Who was Ibn Sina?",
+        "What did al-Khwarizmi contribute?",
+        "What was the House of Wisdom?"
+      ],
+      "sources": [
+        {
+          "author": "History of Islamic science scholarship",
+          "work": "Surveys of classical Islamic science",
+          "type": "modern academic",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "George Saliba, Islamic Science and the Making of the European Renaissance"
+    },
+    {
+      "id": "al-khwarizmi",
+      "title": "Al-Khwarizmi and Algebra",
+      "period": "Abbasid scientific flourishing",
+      "year_hijri": "3rd century AH",
+      "year_ce": "c. 9th century CE",
+      "category": "scholar-science",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Khwarizmi",
+        "algebra",
+        "algorithm",
+        "mathematics",
+        "Baghdad"
+      ],
+      "summary": "Muhammad ibn Musa al-Khwarizmi was a 9th-century scholar whose works on algebra and arithmetic deeply influenced mathematics; the word 'algorithm' derives from his name.",
+      "detailed_information": "Working in the Abbasid intellectual milieu, al-Khwarizmi wrote Kitab al-Jabr wa al-Muqabala, a foundational algebra text. His arithmetic helped transmit decimal positional methods. Latin translations later shaped European mathematics.",
+      "important_people": [
+        "al-Khwarizmi"
+      ],
+      "location": "Baghdad / Abbasid scholarly circles",
+      "historical_significance": "Cornerstone figure in the history of algebra and computational methods.",
+      "related_questions": [
+        "Explain the Islamic Golden Age.",
+        "Who was Ibn al-Haytham?",
+        "What was the House of Wisdom?"
+      ],
+      "sources": [
+        {
+          "author": "History of mathematics",
+          "work": "Studies on al-Khwarizmi",
+          "type": "modern academic",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "George Saliba, Islamic Science and the Making of the European Renaissance"
+    },
+    {
+      "id": "ibn-sina-medicine",
+      "title": "Ibn Sina (Avicenna) and Medicine",
+      "period": "Islamic Golden Age",
+      "year_hijri": "d. 428 AH",
+      "year_ce": "980–1037 CE",
+      "category": "scholar-science",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ibn Sina",
+        "Avicenna",
+        "Canon",
+        "medicine",
+        "philosophy"
+      ],
+      "summary": "Ibn Sina was a Persian polymath whose Canon of Medicine became a standard medical reference in Islamic and European learned traditions for centuries.",
+      "detailed_information": "Ibn Sina contributed to medicine, philosophy, and natural science. The Qanun fi al-Tibb organized medical knowledge systematically. He also wrote extensively on metaphysics and logic. His influence extended through Latin 'Avicenna' translations.",
+      "important_people": [
+        "Ibn Sina"
+      ],
+      "location": "Persia / Central Islamic lands",
+      "historical_significance": "One of the most influential physicians-philosophers in world history.",
+      "related_questions": [
+        "Who was al-Razi?",
+        "Explain the Islamic Golden Age.",
+        "Who was Ibn Rushd?"
+      ],
+      "sources": [
+        {
+          "author": "Classical biobibliographical tradition",
+          "work": "Accounts of Ibn Sina; Canon of Medicine",
+          "type": "classical + academic",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "George Saliba, Islamic Science and the Making of the European Renaissance"
+    }
+  ]
+}

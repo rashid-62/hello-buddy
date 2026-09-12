@@ -1,0 +1,582 @@
+{
+  "schema_version": "1.0",
+  "collection": "prophet-muhammad",
+  "notes": "Seerah overview entries. Numbers (army sizes, exact dates of some early events) can vary by source.",
+  "entries": [
+    {
+      "id": "pre-islamic-arabia",
+      "title": "Pre-Islamic Arabia",
+      "period": "Jahiliyyah / Pre-Islamic Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "Before 622 CE",
+      "category": "background",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Jahiliyyah",
+        "Arabia",
+        "Quraysh",
+        "Makkah",
+        "Kaaba",
+        "pre-Islamic"
+      ],
+      "summary": "Pre-Islamic Arabia was a tribal society centered on kinship, poetry, trade, and pilgrimage, with Makkah as a major sanctuary town controlled by Quraysh.",
+      "detailed_information": "Before Islam, the Arabian Peninsula contained settled towns such as Makkah and Yathrib (later Madinah), oasis communities, and nomadic tribes. Religious life included polytheism centered around the Kaaba, alongside presence of Jews, Christians, and hanifs. Quraysh held prestige through custodianship of the Kaaba and caravan trade toward Syria and Yemen. Social life emphasized tribal honor, poetry, and customary law. This setting is essential for understanding the early Seerah.",
+      "important_people": [
+        "Quraysh",
+        "Banu Hashim",
+        "tribal confederations of Arabia"
+      ],
+      "location": "Arabian Peninsula, especially Hijaz",
+      "historical_significance": "Provides the social, religious, and political context for the mission of Prophet Muhammad ﷺ.",
+      "related_questions": [
+        "What was the lineage of Prophet Muhammad ﷺ?",
+        "How did revelation begin in Makkah?",
+        "Why was Makkah important before Islam?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Ishaq / Ibn Hisham tradition",
+          "work": "Sirat Rasul Allah (via later redactions)",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "birth-and-childhood",
+      "title": "Birth and Childhood of Prophet Muhammad ﷺ",
+      "period": "Meccan background",
+      "year_hijri": "Before prophethood",
+      "year_ce": "c. 570 CE (Year of the Elephant — traditional)",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "birth",
+        "childhood",
+        "Amina",
+        "Abdullah",
+        "Halima",
+        "Quraysh",
+        "Muhammad"
+      ],
+      "summary": "Prophet Muhammad ﷺ was born in Makkah to Abdullah and Amina of Banu Hashim. He became an orphan early and was raised within Quraysh under the care of his grandfather and then uncle Abu Talib.",
+      "detailed_information": "Traditional accounts place his birth around 570 CE, associated with the Year of the Elephant. His father Abdullah died before or shortly after his birth; his mother Amina died in his early childhood. He was nursed by Halima al-Sa'diyya according to common traditional reports, then cared for by Abdul Muttalib and later Abu Talib. As a youth he gained a reputation for honesty (al-Amin) and participated in trade.",
+      "important_people": [
+        "Abdullah",
+        "Amina",
+        "Halima",
+        "Abdul Muttalib",
+        "Abu Talib"
+      ],
+      "location": "Makkah and surrounding Hijaz",
+      "historical_significance": "Establishes the Prophet's Qurayshi lineage, orphanhood, and early moral reputation.",
+      "disputed_notes": "Exact birth year is traditionally given as 570 CE but precise calendar conversion can vary slightly among historians.",
+      "related_questions": [
+        "Who was Khadijah?",
+        "What was Pre-Islamic Arabia like?",
+        "When did revelation begin?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Hisham",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "marriage-khadijah",
+      "title": "Marriage to Khadijah رضي الله عنها",
+      "period": "Pre-revelation / early Meccan life",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "c. 595 CE (approximate traditional dating)",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Khadijah",
+        "marriage",
+        "trade",
+        "Muhammad",
+        "wife"
+      ],
+      "summary": "Muhammad ﷺ married Khadijah bint Khuwaylid, a respected Makkan businesswoman. She became his first wife and the first to believe in his prophethood.",
+      "detailed_information": "Khadijah employed Muhammad ﷺ in trade caravans. Impressed by his trustworthiness, she proposed marriage. Their household was central to the earliest Muslim community. She provided emotional and material support during the first revelations. Traditional reports emphasize her status, wisdom, and early faith. She died during the Meccan period, in the Year of Sorrow according to common accounts.",
+      "important_people": [
+        "Khadijah bint Khuwaylid",
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah",
+      "historical_significance": "Khadijah's support was crucial in the earliest phase of Islam.",
+      "related_questions": [
+        "What was the beginning of revelation?",
+        "What was the Year of Sorrow?",
+        "Who were the earliest Muslims?"
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah tradition",
+          "work": "Sirah literature",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "beginning-of-revelation",
+      "title": "Beginning of Revelation",
+      "period": "Early Makkan Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "610 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "revelation",
+        "Iqra",
+        "Hira",
+        "Jibril",
+        "610",
+        "prophethood",
+        "Wahy"
+      ],
+      "summary": "In 610 CE, while in retreat at Cave Hira, Muhammad ﷺ received the first revelation through the angel Jibril, beginning with the command to 'Read' (Iqra).",
+      "detailed_information": "According to classical seerah, the Prophet was meditating in Cave Hira when Jibril appeared and conveyed the opening verses of Surah al-Alaq. Disturbed and overwhelmed, he returned to Khadijah, who reassured him and took him to Waraqah ibn Nawfal. This event marks the start of prophethood. Early revelation was followed by a private phase of preaching among close contacts before public proclamation.",
+      "important_people": [
+        "Jibril",
+        "Khadijah",
+        "Waraqah ibn Nawfal",
+        "Ali",
+        "Zayd",
+        "Abu Bakr"
+      ],
+      "location": "Cave Hira, near Makkah",
+      "historical_significance": "Marks the historical beginning of Islam as a revealed prophetic mission.",
+      "related_questions": [
+        "What was the Makkan period like?",
+        "Who were the earliest Muslims?",
+        "Why did Quraysh oppose Islam?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Ishaq / Ibn Hisham",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "makkan-period-persecution",
+      "title": "Makkan Period and Persecution",
+      "period": "Makkan Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "610–622 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Makkan",
+        "persecution",
+        "Quraysh",
+        "boycott",
+        "early Muslims"
+      ],
+      "summary": "During the Makkan period, early Muslims faced ridicule, social pressure, economic boycott, and physical persecution from Quraysh elites opposed to the new message.",
+      "detailed_information": "After public preaching began, many Quraysh leaders rejected monotheism as a threat to tribal religion and the pilgrimage economy. Vulnerable Muslims, especially those without strong protectors, suffered abuse. Some migrated to Abyssinia seeking refuge under a just Christian king (Najashi). A boycott against Banu Hashim was imposed for a period. The Prophet continued to call tribes to Islam during pilgrimage seasons.",
+      "important_people": [
+        "Abu Bakr",
+        "Bilal",
+        "Sumayyah",
+        "Yasir",
+        "Abu Jahl",
+        "Abu Talib"
+      ],
+      "location": "Makkah",
+      "historical_significance": "Shapes the early Muslim community's identity under pressure and sets the stage for Hijrah.",
+      "related_questions": [
+        "What was the migration to Abyssinia?",
+        "What was the Year of Sorrow?",
+        "Explain the Hijrah to Madinah."
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah authors",
+          "work": "Sirah and maghazi literature",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "hijrah-madinah",
+      "title": "Hijrah to Madinah",
+      "period": "Transition to Medinan Period",
+      "year_hijri": "1 AH",
+      "year_ce": "622 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Hijrah",
+        "Madinah",
+        "Yathrib",
+        "migration",
+        "Aws",
+        "Khazraj",
+        "622"
+      ],
+      "summary": "In 622 CE, Prophet Muhammad ﷺ and the early Muslims migrated from Makkah to Yathrib (Madinah), an event so central that it begins the Islamic Hijri calendar.",
+      "detailed_information": "Following the pledges of Aqabah with people of Aws and Khazraj, Muslims emigrated in stages to Yathrib. The Prophet migrated with Abu Bakr, escaping Quraysh pursuit. In Madinah, a new political-religious community formed, including Muhajirun and Ansar. The Hijrah transformed Islam from a persecuted Meccan movement into a community with territorial and civic foundations.",
+      "important_people": [
+        "Abu Bakr",
+        "Ansar",
+        "Muhajirun",
+        "Quraysh"
+      ],
+      "location": "From Makkah to Madinah (Yathrib)",
+      "historical_significance": "Foundational turning point of Islamic history and calendar epoch.",
+      "related_questions": [
+        "What was the Constitution of Madinah?",
+        "What happened at the Battle of Badr?",
+        "What were the Pledges of Aqabah?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Hisham / classical historians",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "constitution-madinah",
+      "title": "Constitution of Madinah",
+      "period": "Early Medinan Period",
+      "year_hijri": "1 AH (approx.)",
+      "year_ce": "622 CE (approx.)",
+      "category": "document",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Constitution",
+        "Madinah",
+        "charter",
+        "Jews",
+        "ummah",
+        "agreement"
+      ],
+      "summary": "The Constitution (or Charter) of Madinah was an early agreement organizing relations among Muslim emigrants, Medinan helpers, and other Madinan groups including Jewish tribes.",
+      "detailed_information": "Classical sources preserve a document outlining mutual defense, legal responsibilities, and communal belonging in Madinah under the Prophet's leadership. It is often discussed as an early constitutional arrangement for a plural society. Exact textual reconstruction and interpretation are discussed by modern historians, but its broad role in forming the Medinan polity is widely recognized in Islamic historical writing.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Ansar",
+        "Muhajirun",
+        "Jewish tribes of Madinah"
+      ],
+      "location": "Madinah",
+      "historical_significance": "Important for understanding early Islamic political organization and inter-communal relations.",
+      "disputed_notes": "Modern scholars debate precise dating, redaction, and legal characterization of the document.",
+      "related_questions": [
+        "Explain the Hijrah to Madinah.",
+        "What major battles occurred after the Hijrah?",
+        "How was Madinah established as a Muslim community?"
+      ],
+      "sources": [
+        {
+          "author": "Early sirah and documentary tradition",
+          "work": "Reports of the Madinan charter in classical sources",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "battle-badr",
+      "title": "Battle of Badr",
+      "period": "Medinan Period",
+      "year_hijri": "2 AH",
+      "year_ce": "624 CE",
+      "category": "battle",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Badr",
+        "battle",
+        "Quraysh",
+        "Madinah",
+        "624",
+        "2 AH"
+      ],
+      "summary": "The Battle of Badr (2 AH / 624 CE) was the first major battle between the Muslims of Madinah and Quraysh of Makkah, ending in a decisive Muslim victory.",
+      "detailed_information": "A Muslim force confronted a larger Quraysh army near the wells of Badr. Classical accounts emphasize strategic positioning, morale, and the symbolic importance of victory for the young Medinan community. Several leading Quraysh opponents were killed. Exact troop numbers vary by source, but the outcome strengthened Muslim confidence and altered the regional balance.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Quraysh leaders",
+        "early Companions"
+      ],
+      "location": "Badr, between Makkah and Madinah",
+      "historical_significance": "Major early military and spiritual turning point in the Seerah.",
+      "disputed_notes": "Reported numbers of combatants differ among classical sources.",
+      "related_questions": [
+        "What happened at the Battle of Uhud?",
+        "Explain the Hijrah to Madinah.",
+        "What was the Treaty of Hudaybiyyah?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Ishaq / al-Waqidi tradition",
+          "work": "Maghazi and Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "treaty-hudaybiyyah",
+      "title": "Treaty of Hudaybiyyah",
+      "period": "Medinan Period",
+      "year_hijri": "6 AH",
+      "year_ce": "628 CE",
+      "category": "treaty",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Hudaybiyyah",
+        "treaty",
+        "Quraysh",
+        "peace",
+        "6 AH"
+      ],
+      "summary": "The Treaty of Hudaybiyyah was a truce between the Muslims and Quraysh that initially disappointed some Companions but opened a strategic period of expansion for Islam.",
+      "detailed_information": "When Muslims sought to perform pilgrimage, Quraysh blocked entry to Makkah. Negotiations produced a written truce with terms that seemed unfavorable, including postponement of umrah. The Qur'an refers to a clear victory in connection with this episode (Surah al-Fath), and historically the following period saw significant growth in conversions and diplomatic outreach. The treaty later broke down, contributing to the context of the Conquest of Makkah.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Suhayl ibn Amr",
+        "Companions at Hudaybiyyah"
+      ],
+      "location": "Hudaybiyyah, near Makkah",
+      "historical_significance": "Strategically pivotal diplomatic moment preceding wider acceptance of Islam.",
+      "related_questions": [
+        "What was the Conquest of Makkah?",
+        "What happened at the Battle of Badr?",
+        "Explain the Farewell Pilgrimage."
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah historians",
+          "work": "Sirah and maghazi",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "conquest-makkah",
+      "title": "Conquest of Makkah",
+      "period": "Late Medinan Period",
+      "year_hijri": "8 AH",
+      "year_ce": "630 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Conquest",
+        "Makkah",
+        "Fath",
+        "Kaaba",
+        "8 AH",
+        "630"
+      ],
+      "summary": "In 8 AH / 630 CE, Muslim forces entered Makkah with limited fighting. The Kaaba was purified of idols, and a general amnesty was extended to many former opponents.",
+      "detailed_information": "After Quraysh-related violations connected to the Hudaybiyyah framework, the Prophet advanced on Makkah. The city was taken with comparatively little bloodshed in classical accounts. Idols in the Kaaba were removed, and many Quraysh accepted Islam. The conquest symbolically reunited Islam with the sanctuary of Ibrahim and transformed Makkah's religious role.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Sufyan",
+        "Quraysh",
+        "Companions"
+      ],
+      "location": "Makkah",
+      "historical_significance": "Decisive political-religious turning point establishing Muslim authority over the Hijaz sanctuary.",
+      "related_questions": [
+        "What was the Treaty of Hudaybiyyah?",
+        "What was the Farewell Sermon?",
+        "What happened after the Conquest of Makkah?"
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah historians",
+          "work": "Sirah",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "farewell-pilgrimage-sermon",
+      "title": "Farewell Pilgrimage and Farewell Sermon",
+      "period": "Final years of the Prophet ﷺ",
+      "year_hijri": "10 AH",
+      "year_ce": "632 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Farewell",
+        "Hajj",
+        "sermon",
+        "Khutbah",
+        "10 AH",
+        "632"
+      ],
+      "summary": "In 10 AH, Prophet Muhammad ﷺ performed the Farewell Pilgrimage and delivered a major sermon emphasizing sacred rights, justice, and the completion of the religious message.",
+      "detailed_information": "The Farewell Sermon (Khutbat al-Wada) addresses themes such as the sanctity of life and property, abolition of pagan blood-feud practices, fairness in dealings, and exhortations regarding women and social ethics. Classical collections preserve overlapping versions of the sermon; wording can vary by transmission. Soon afterward, the Prophet's final illness began.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Companions on Hajj"
+      ],
+      "location": "Makkah and surrounding pilgrimage sites",
+      "historical_significance": "A culminating ethical and communal address of the Prophetic mission.",
+      "disputed_notes": "Exact wording of sermon components varies across hadith and historical reports.",
+      "related_questions": [
+        "What happened during the final illness of the Prophet ﷺ?",
+        "What happened after the death of Prophet Muhammad ﷺ?",
+        "What was the Conquest of Makkah?"
+      ],
+      "sources": [
+        {
+          "author": "Hadith and seerah collections",
+          "work": "Reports of the Farewell Sermon",
+          "type": "classical seerah / hadith",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "death-of-prophet",
+      "title": "Final Illness and Death of Prophet Muhammad ﷺ",
+      "period": "End of Prophetic era",
+      "year_hijri": "11 AH",
+      "year_ce": "632 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "death",
+        "illness",
+        "632",
+        "11 AH",
+        "Muhammad",
+        "Madinah"
+      ],
+      "summary": "Prophet Muhammad ﷺ died in Madinah in 11 AH / 632 CE after a final illness. His death marked the end of revelation and the beginning of the Rashidun Caliphate period.",
+      "detailed_information": "After returning from the Farewell Pilgrimage, the Prophet fell ill. He passed away in the chamber of Aisha according to well-known Sunni historical reports and was buried in Madinah. The community faced profound grief and an immediate political question of succession, leading to the gathering at Saqifah and the caliphate of Abu Bakr. Immediate consequences included the Ridda (apostasy/refusal) wars under Abu Bakr as some tribes challenged Medinan authority.",
+      "important_people": [
+        "Aisha",
+        "Abu Bakr",
+        "Umar",
+        "Companions",
+        "family of the Prophet"
+      ],
+      "location": "Madinah",
+      "historical_significance": "Ends the Prophetic period and opens the era of the Rightly Guided Caliphs; succession interpretations differ between Sunni and Shia historical traditions.",
+      "disputed_notes": "Sunni and Shia historical traditions describe the succession after his death differently. Present both carefully and neutrally when relevant.",
+      "related_questions": [
+        "What happened after the death of Prophet Muhammad ﷺ?",
+        "Who was Abu Bakr?",
+        "What were the Ridda Wars?"
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Sirah and early Islamic histories (e.g., al-Tabari tradition)",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "isra-miraj",
+      "title": "Isra and Mi'raj",
+      "period": "Late Makkan Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "c. 621 CE (traditional dating varies)",
+      "category": "seerah",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Isra",
+        "Miraj",
+        "Night Journey",
+        "Jerusalem",
+        "prayer",
+        "Buraq"
+      ],
+      "summary": "The Isra and Mi'raj refer to the Night Journey from Makkah to Jerusalem and the Ascension, a major event in the Seerah associated with the prescription of the five daily prayers.",
+      "detailed_information": "Classical Islamic tradition holds that the Prophet was taken by night to Al-Aqsa and then ascended through the heavens. The event is spiritually central and historically dated in late Meccan years, though exact year assignments vary among authorities. It strengthened the Prophet after periods of hardship including the Year of Sorrow.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Jibril"
+      ],
+      "location": "Makkah to Jerusalem (Al-Aqsa) and the heavens (traditional account)",
+      "historical_significance": "Major spiritual milestone; linked with Salah in Islamic tradition.",
+      "disputed_notes": "Exact dating within the Meccan period differs among classical scholars.",
+      "related_questions": [
+        "What was the Year of Sorrow?",
+        "Explain the Hijrah to Madinah.",
+        "What was the Makkan period like?"
+      ],
+      "sources": [
+        {
+          "author": "Qur'an and seerah tradition",
+          "work": "Accounts of Isra and Mi'raj",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    },
+    {
+      "id": "year-of-sorrow",
+      "title": "Year of Sorrow",
+      "period": "Late Makkan Period",
+      "year_hijri": "Before 1 AH",
+      "year_ce": "c. 619 CE",
+      "category": "seerah",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Year of Sorrow",
+        "Khadijah",
+        "Abu Talib",
+        "grief",
+        "Makkah"
+      ],
+      "summary": "The Year of Sorrow refers to the period when the Prophet ﷺ lost both Khadijah and his uncle Abu Talib, removing key personal and tribal support in Makkah.",
+      "detailed_information": "With Abu Talib's death, tribal protection weakened; with Khadijah's death, intimate support was lost. Hostility in Makkah intensified, and the Prophet sought support beyond Makkah, including the difficult journey to Ta'if. This period precedes later developments such as the pledges with Medinan visitors and eventually the Hijrah.",
+      "important_people": [
+        "Khadijah",
+        "Abu Talib",
+        "Prophet Muhammad ﷺ"
+      ],
+      "location": "Makkah",
+      "historical_significance": "A major personal and political turning point that increased the urgency of finding a new base for the Muslim community.",
+      "related_questions": [
+        "What was the migration to Abyssinia?",
+        "What were the Pledges of Aqabah?",
+        "Explain the Hijrah to Madinah."
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah",
+          "work": "Sirah literature",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Hisham, As-Seerah An-Nabawiyyah; Safi-ur-Rahman al-Mubarakpuri, The Sealed Nectar"
+    }
+  ]
+}

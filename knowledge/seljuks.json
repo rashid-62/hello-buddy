@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "collection": "seljuks",
+  "entries": [
+    {
+      "id": "seljuk-overview",
+      "title": "The Seljuk Turks",
+      "period": "Seljuk Period",
+      "year_hijri": "c. 5th–7th centuries AH",
+      "year_ce": "c. 11th–13th centuries CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Seljuk",
+        "Seljuks",
+        "Nizam al-Mulk",
+        "Manzikert",
+        "sultan",
+        "Turks"
+      ],
+      "summary": "The Seljuks were a Turkic dynasty that dominated much of Iran, Iraq, and Anatolia in the 11th–12th centuries, acting as sultans while recognizing the Abbasid caliph.",
+      "detailed_information": "The Great Seljuk Empire rose under leaders such as Tughril Beg, who entered Baghdad and became protectors of the Abbasid caliph. Vizier Nizam al-Mulk helped shape administration and madrasa education (Nizamiyya). The Battle of Manzikert (1071) against Byzantium opened Anatolia to Turkic settlement, a key step toward later Ottoman history. Seljuk authority later fragmented into regional sultanates, including Rum in Anatolia.",
+      "important_people": [
+        "Tughril Beg",
+        "Alp Arslan",
+        "Malik Shah",
+        "Nizam al-Mulk"
+      ],
+      "location": "Iran, Iraq, Anatolia, Syria",
+      "historical_significance": "Transformed the political map of the Middle East and Anatolia; linked to Crusades-era dynamics.",
+      "related_questions": [
+        "What happened at Manzikert?",
+        "How did the Ottoman Empire begin?",
+        "Who was Nizam al-Mulk?"
+      ],
+      "sources": [
+        {
+          "author": "Medieval chroniclers",
+          "work": "Seljuk histories",
+          "type": "classical historical source",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "battle-manzikert",
+      "title": "Battle of Manzikert",
+      "period": "Seljuk Period",
+      "year_hijri": "463 AH",
+      "year_ce": "1071 CE",
+      "category": "battle",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Manzikert",
+        "Alp Arslan",
+        "Byzantium",
+        "Anatolia",
+        "1071"
+      ],
+      "summary": "At Manzikert in 1071 CE, Seljuk Sultan Alp Arslan defeated the Byzantine emperor Romanos IV, accelerating Turkic expansion into Anatolia.",
+      "detailed_information": "The Byzantine defeat weakened imperial control in Anatolia and is widely seen as a turning point leading to lasting Turkic-Muslim presence in the region. Later political developments eventually contributed to the rise of Anatolian beyliks and the Ottomans.",
+      "important_people": [
+        "Alp Arslan",
+        "Romanos IV Diogenes"
+      ],
+      "location": "Manzikert (Malazgirt), eastern Anatolia",
+      "historical_significance": "Strategic turning point for Anatolian history and later Ottoman origins.",
+      "related_questions": [
+        "Who were the Seljuks?",
+        "How did the Ottoman Empire begin?",
+        "What were the Crusades in Islamic history?"
+      ],
+      "sources": [
+        {
+          "author": "Byzantine and Islamic chronicles",
+          "work": "Accounts of Manzikert",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    }
+  ]
+}

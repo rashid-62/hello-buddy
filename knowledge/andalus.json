@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "collection": "andalus",
+  "entries": [
+    {
+      "id": "andalus-overview",
+      "title": "Al-Andalus (Islamic Spain)",
+      "period": "Al-Andalus",
+      "year_hijri": "92–897 AH (approx.)",
+      "year_ce": "711–1492 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Andalus",
+        "Spain",
+        "Cordoba",
+        "Granada",
+        "Umayyad",
+        "Islamic Spain"
+      ],
+      "summary": "Al-Andalus refers to Muslim-ruled territories in the Iberian Peninsula from the 8th century until the fall of Granada in 1492 CE, famed for cities like Cordoba, Seville, and Granada.",
+      "detailed_information": "Muslim forces crossed into Iberia in 711 CE. An Umayyad emirate, later caliphate, centered on Cordoba became a major cultural capital. After caliphal collapse, taifa kingdoms rose, followed by Almoravid and Almohad interventions from North Africa. The Nasrid Kingdom of Granada was the last Muslim polity, ending in 1492. Al-Andalus is remembered for architecture, learning, poetry, and complex interreligious relations — including coexistence and conflict across centuries.",
+      "important_people": [
+        "Abd al-Rahman I",
+        "Abd al-Rahman III",
+        "Ibn Rushd",
+        "Boabdil (Abu Abdallah)"
+      ],
+      "location": "Iberian Peninsula",
+      "historical_significance": "A major western Islamic civilization linking Maghrib, Europe, and Mediterranean culture.",
+      "related_questions": [
+        "How did Muslims enter Spain?",
+        "What was the Caliphate of Cordoba?",
+        "What happened in 1492 in Granada?"
+      ],
+      "sources": [
+        {
+          "author": "Andalusi and modern historians",
+          "work": "Histories of al-Andalus",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Al-Maqqari, Nafh al-Tib"
+    },
+    {
+      "id": "cordoba-caliphate",
+      "title": "Caliphate of Cordoba",
+      "period": "Umayyad al-Andalus",
+      "year_hijri": "316–422 AH (caliphal phase)",
+      "year_ce": "929–1031 CE",
+      "category": "dynasty",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Cordoba",
+        "Abd al-Rahman III",
+        "caliphate",
+        "Andalus"
+      ],
+      "summary": "The Caliphate of Cordoba, proclaimed by Abd al-Rahman III in 929 CE, was a high point of Andalusi political power and cultural prestige.",
+      "detailed_information": "Building on the emirate founded by Abd al-Rahman I (a surviving Umayyad), Abd al-Rahman III declared a caliphate rivaling Abbasids and Fatimids in claim. Cordoba became renowned for libraries, scholarship, and monumental architecture such as the Great Mosque (Mezquita). After 1031, the caliphate fragmented into taifa states.",
+      "important_people": [
+        "Abd al-Rahman III",
+        "al-Hakam II",
+        "Almanzor (al-Mansur)"
+      ],
+      "location": "Cordoba, al-Andalus",
+      "historical_significance": "Symbol of Andalusi golden cultural-political era.",
+      "related_questions": [
+        "What was al-Andalus?",
+        "Who was Ibn Rushd?",
+        "Why did Muslim rule in Spain decline?"
+      ],
+      "sources": [
+        {
+          "author": "Andalusi chronicles",
+          "work": "Histories of Cordoba",
+          "type": "classical historical source",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Al-Maqqari, Nafh al-Tib"
+    }
+  ]
+}

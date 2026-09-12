@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "collection": "abbasids",
+  "entries": [
+    {
+      "id": "abbasid-overview",
+      "title": "The Abbasid Caliphate",
+      "period": "Abbasid Caliphate",
+      "year_hijri": "132–656 AH (Baghdad era ends 656 AH / 1258 CE)",
+      "year_ce": "750–1258 CE (Baghdad); later shadow caliphate in Cairo under Mamluks",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Abbasid",
+        "Abbasids",
+        "Baghdad",
+        "Golden Age",
+        "caliphate"
+      ],
+      "summary": "The Abbasids overthrew the Umayyads in 750 CE and built a new caliphate centered on Baghdad, associated with a flourishing of learning, administration, and culture often called the Islamic Golden Age.",
+      "detailed_information": "Claiming descent from al-Abbas, uncle of the Prophet, the Abbasids shifted the imperial center to Iraq. Baghdad (founded by al-Mansur) became a major world city. The early and middle Abbasid periods saw translation movements, advances in science and philosophy, sophisticated bureaucracy, and rich literature. Over time, real power fragmented among provincial dynasties while the caliph often remained a symbolic figure. The Mongol sack of Baghdad in 1258 CE ended the classical Abbasid caliphate in Iraq.",
+      "important_people": [
+        "al-Saffah",
+        "al-Mansur",
+        "Harun al-Rashid",
+        "al-Ma'mun",
+        "al-Mutawakkil"
+      ],
+      "location": "Baghdad (Iraq) and wider Islamic lands",
+      "historical_significance": "Central dynasty of classical Islamic civilization and learning.",
+      "related_questions": [
+        "What was the Abbasid Golden Age?",
+        "Why did the Abbasid Caliphate decline?",
+        "What caused the fall of the Abbasid Caliphate?"
+      ],
+      "sources": [
+        {
+          "author": "Classical chroniclers",
+          "work": "Abbasid-era histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "abbasid-golden-age",
+      "title": "Abbasid Golden Age and the House of Wisdom",
+      "period": "High Abbasid Period",
+      "year_hijri": "c. 2nd–4th centuries AH",
+      "year_ce": "c. 8th–10th centuries CE",
+      "category": "culture",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Golden Age",
+        "House of Wisdom",
+        "Bayt al-Hikma",
+        "translation",
+        "science",
+        "Harun",
+        "Mamun"
+      ],
+      "summary": "During the high Abbasid period, scholars in and around Baghdad translated, preserved, and expanded knowledge in medicine, astronomy, mathematics, philosophy, and literature.",
+      "detailed_information": "Patronage under caliphs such as Harun al-Rashid and al-Ma'mun supported translation from Greek, Persian, and other traditions into Arabic. Institutions and circles associated with the Bayt al-Hikma (House of Wisdom) symbolize this movement, though modern historians debate the exact institutional form of the House of Wisdom. The period produced enduring contributions later transmitted to other regions, including Europe.",
+      "important_people": [
+        "Harun al-Rashid",
+        "al-Ma'mun",
+        "scholars of Baghdad"
+      ],
+      "location": "Baghdad",
+      "historical_significance": "Key phase of scientific and intellectual flourishing in Islamic civilization.",
+      "disputed_notes": "The precise nature and organization of the House of Wisdom is debated by modern historians.",
+      "related_questions": [
+        "Explain the Islamic Golden Age.",
+        "Who were important scholars of Islamic science?",
+        "Why did the Abbasid Caliphate decline?"
+      ],
+      "sources": [
+        {
+          "author": "History of science scholarship",
+          "work": "Studies on Abbasid translation movement",
+          "type": "modern academic",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "abbasid-decline-fall",
+      "title": "Decline and Fall of the Abbasid Caliphate in Baghdad",
+      "period": "Late Abbasid",
+      "year_hijri": "through 656 AH",
+      "year_ce": "through 1258 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "decline",
+        "fall",
+        "Mongols",
+        "Hulagu",
+        "1258",
+        "Baghdad",
+        "fragmentation"
+      ],
+      "summary": "Abbasid political power fragmented over centuries due to provincial dynasties, military interventions, and economic strain. The Mongol conquest of Baghdad in 1258 CE ended the caliphate there.",
+      "detailed_information": "From the 9th–10th centuries, Turkish military elites, regional dynasties (Buyids, Seljuks, and others), and internal court conflicts reduced caliphal autonomy. The caliph often retained religious prestige while sultans held real power. In 1258, Mongol forces under Hulagu Khan sacked Baghdad, killing the caliph al-Musta'sim and devastating the city. A later Abbasid line existed ceremonially under the Mamluks in Cairo, but the classical Baghdad caliphate was over.",
+      "important_people": [
+        "Hulagu Khan",
+        "al-Musta'sim",
+        "Seljuk sultans",
+        "Buyid rulers"
+      ],
+      "location": "Baghdad",
+      "historical_significance": "Marks a dramatic end to the classical Abbasid imperial center.",
+      "related_questions": [
+        "Who were the Seljuks?",
+        "What was the role of the Mamluks after 1258?",
+        "What was the Abbasid Golden Age?"
+      ],
+      "sources": [
+        {
+          "author": "Classical and modern historians",
+          "work": "Accounts of the Mongol conquest of Baghdad",
+          "type": "historical synthesis",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "abbasid-rise",
+      "title": "How the Abbasids Came to Power",
+      "period": "Abbasid Revolution",
+      "year_hijri": "132 AH",
+      "year_ce": "750 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Abbasid Revolution",
+        "Abu Muslim",
+        "Khurasan",
+        "750",
+        "overthrow"
+      ],
+      "summary": "The Abbasids rose through a revolutionary movement based especially in Khurasan, overthrowing the Umayyads in 750 CE and establishing a new caliphal dynasty.",
+      "detailed_information": "Revolutionary propaganda mobilized discontent against Umayyad rule. Abu Muslim's forces were decisive. After victory, the Abbasids consolidated power in Iraq, eventually founding Baghdad. Early Abbasid politics included eliminating rivals and managing the expectations of diverse supporters.",
+      "important_people": [
+        "Abu Muslim",
+        "al-Saffah",
+        "al-Mansur"
+      ],
+      "location": "Khurasan and Iraq",
+      "historical_significance": "Dynastic transfer that reshaped Islamic imperial geography and culture.",
+      "related_questions": [
+        "What was the Umayyad Caliphate?",
+        "What was the Abbasid Golden Age?",
+        "Compare the Umayyads and Abbasids."
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Abbasid Revolution narratives",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    }
+  ]
+}

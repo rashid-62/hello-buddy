@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "collection": "prophets",
+  "notes": "Traditional Islamic historical accounts of prophets before Muhammad ﷺ. Dates for early prophets are traditional/approximate and often not independently dated.",
+  "entries": [
+    {
+      "id": "prophet-adam",
+      "title": "Prophet Adam",
+      "period": "Pre-Abrahamic tradition",
+      "year_hijri": null,
+      "year_ce": null,
+      "category": "prophet",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Adam",
+        "Adam AS",
+        "first human",
+        "prophet",
+        "paradise"
+      ],
+      "summary": "In Islamic tradition, Adam (Ādam) is the first human and the first prophet, created by God and taught the names of things.",
+      "detailed_information": "Islamic historical and religious tradition presents Adam as the progenitor of humanity. He is associated with life in a garden (jannah), a test involving the forbidden tree, descent to earth, and repentance. Classical seerah and qisas al-anbiya literature elaborate narrative details; many specifics are traditional rather than independently dated history.",
+      "important_people": [
+        "Eve (Hawwa)",
+        "Cain (Qabil)",
+        "Abel (Habil)"
+      ],
+      "location": "Traditional narratives associate early events with a heavenly garden and later earthly settlement; exact geography is not historically fixed.",
+      "historical_significance": "Adam establishes the prophetic lineage and the human story of guidance, trial, and repentance in Islamic historical imagination.",
+      "disputed_notes": "Chronology and geographic details vary widely across traditional stories and are not treated as fixed secular history.",
+      "related_questions": [
+        "Who were the prophets after Adam in Islamic tradition?",
+        "What is the story of Prophet Nuh?",
+        "How does Islamic tradition describe the beginning of humanity?"
+      ],
+      "sources": [
+        {
+          "author": "Classical Islamic tradition",
+          "work": "Qur'anic narratives and Qisas al-Anbiya literature",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Kathir, Qisas al-Anbiya (Stories of the Prophets)"
+    },
+    {
+      "id": "prophet-nuh",
+      "title": "Prophet Nuh (Noah)",
+      "period": "Pre-Abrahamic tradition",
+      "year_hijri": null,
+      "year_ce": null,
+      "category": "prophet",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Nuh",
+        "Noah",
+        "flood",
+        "ark",
+        "prophet"
+      ],
+      "summary": "Nuh is a major prophet in Islamic tradition, known for long preaching to his people and the account of the great flood and the ark.",
+      "detailed_information": "Islamic narratives describe Nuh calling his community to monotheism for an extended period, facing rejection, and then the flood that destroyed the disbelieving people while believers were saved in the ark. These accounts are foundational in Islamic prophetic history but are not dated with precise CE chronology in the manner of later Islamic political history.",
+      "important_people": [
+        "Nuh",
+        "his people",
+        "survivors of the ark"
+      ],
+      "location": "Traditional accounts do not fix a single universally agreed archaeological location.",
+      "historical_significance": "Nuh represents steadfast prophetic mission amid widespread rejection and is a major figure in Islamic sacred history.",
+      "related_questions": [
+        "Who was Prophet Ibrahim?",
+        "What prophets are mentioned after Nuh?",
+        "How does Islamic tradition describe the flood of Nuh?"
+      ],
+      "sources": [
+        {
+          "author": "Qur'anic narrative tradition",
+          "work": "Accounts of Nuh in the Qur'an and classical tafsir",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Kathir, Qisas al-Anbiya (Stories of the Prophets)"
+    },
+    {
+      "id": "prophet-ibrahim",
+      "title": "Prophet Ibrahim (Abraham)",
+      "period": "Abrahamic tradition",
+      "year_hijri": null,
+      "year_ce": "Traditionally placed in the 2nd millennium BCE (approximate, not exact)",
+      "category": "prophet",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Ibrahim",
+        "Abraham",
+        "Hanif",
+        "Kaaba",
+        "Ismail",
+        "Ishaq",
+        "prophet"
+      ],
+      "summary": "Ibrahim is a central prophet in Islamic tradition: a hanif (upright monotheist), associated with rejecting idolatry, the trial of sacrifice, and the foundations of the Kaaba with Ismail.",
+      "detailed_information": "Islamic tradition presents Ibrahim as a decisive opponent of idol worship, a traveler across regions associated with Mesopotamia, the Levant, and the Hijaz, and the ancestor of later prophetic lines through Ismail and Ishaq. He is linked to the building or raising of the Kaaba with his son Ismail in Makkah. Exact historical dating remains approximate; traditional and academic chronologies differ.",
+      "important_people": [
+        "Ismail (Ishmael)",
+        "Ishaq (Isaac)",
+        "Hajar (Hagar)",
+        "Sarah"
+      ],
+      "location": "Associated traditionally with Ur/Babylonian contexts, the Levant, and Makkah",
+      "historical_significance": "Ibrahim is a foundational figure for Islamic monotheism, pilgrimage symbolism, and the prophetic lineage culminating in Muhammad ﷺ.",
+      "disputed_notes": "Secular historical dating of Abrahamic figures is debated; Islamic tradition treats Ibrahim as a real prophet within sacred history.",
+      "related_questions": [
+        "Who was Prophet Ismail?",
+        "What is the connection between Ibrahim and the Kaaba?",
+        "How is Ibrahim connected to Prophet Muhammad ﷺ?"
+      ],
+      "sources": [
+        {
+          "author": "Islamic scriptural and historical tradition",
+          "work": "Qur'an, tafsir, and classical prophetic histories",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Kathir, Qisas al-Anbiya (Stories of the Prophets)"
+    },
+    {
+      "id": "prophet-musa",
+      "title": "Prophet Musa (Moses)",
+      "period": "Prophetic tradition — Children of Israel",
+      "year_hijri": null,
+      "year_ce": "Traditionally associated with the Late Bronze Age (exact dating disputed)",
+      "category": "prophet",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Musa",
+        "Moses",
+        "Pharaoh",
+        "Torah",
+        "Exodus",
+        "prophet"
+      ],
+      "summary": "Musa is one of the most frequently mentioned prophets in the Qur'an, sent to Pharaoh and the Children of Israel, and given scripture.",
+      "detailed_information": "Islamic tradition recounts Musa's birth under oppression, his upbringing, his call to prophethood, confrontation with Pharaoh, the exodus, and reception of divine law. These narratives are central to Islamic sacred history. Precise synchronization with Egyptian chronology remains a matter of scholarly debate outside purely traditional frameworks.",
+      "important_people": [
+        "Harun (Aaron)",
+        "Pharaoh",
+        "Asiya",
+        "Children of Israel"
+      ],
+      "location": "Egypt and the Sinai / wilderness tradition",
+      "historical_significance": "Musa models prophetic resistance to tyranny and the delivery of revealed law.",
+      "disputed_notes": "Identification of the Pharaoh of the Exodus and exact dating are historically disputed.",
+      "related_questions": [
+        "Who was Prophet Isa?",
+        "What is the story of Musa and Pharaoh in Islamic tradition?",
+        "Which prophets came after Musa?"
+      ],
+      "sources": [
+        {
+          "author": "Qur'anic and classical Islamic tradition",
+          "work": "Qur'anic Musa narratives; Qisas al-Anbiya",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Kathir, Qisas al-Anbiya (Stories of the Prophets)"
+    },
+    {
+      "id": "prophet-isa",
+      "title": "Prophet Isa (Jesus)",
+      "period": "Late Second Temple / early 1st century CE tradition",
+      "year_hijri": null,
+      "year_ce": "c. early 1st century CE",
+      "category": "prophet",
+      "certainty": "traditional_account",
+      "keywords": [
+        "Isa",
+        "Jesus",
+        "Maryam",
+        "Injil",
+        "prophet",
+        "Messiah"
+      ],
+      "summary": "In Islamic tradition, Isa ibn Maryam is a major prophet and Messiah, born miraculously to Maryam, who preached monotheism and was given the Injil.",
+      "detailed_information": "Islamic belief holds that Isa was born of Maryam without a father, performed miracles by God's permission, and called people to worship God alone. Islamic tradition differs from Christian doctrine on his nature and on the crucifixion narrative: the Qur'an states that he was not killed as claimed, and God raised him. Historical and theological interpretations of these points differ across religious traditions.",
+      "important_people": [
+        "Maryam (Mary)",
+        "disciples (Hawariyyun)"
+      ],
+      "location": "Palestine / Levant",
+      "historical_significance": "Isa is the last major prophet before Muhammad ﷺ in Islamic belief and a bridge figure in Abrahamic history.",
+      "disputed_notes": "Islamic and Christian accounts differ significantly regarding crucifixion and divinity. Present differences respectfully.",
+      "related_questions": [
+        "How does Islamic tradition describe the birth of Isa?",
+        "Who was the final prophet after Isa?",
+        "What is the role of Maryam in Islamic history?"
+      ],
+      "sources": [
+        {
+          "author": "Islamic scriptural tradition",
+          "work": "Qur'anic accounts of Isa and Maryam",
+          "type": "religious-historical tradition",
+          "verification_status": "traditional"
+        }
+      ],
+      "source": "Ibn Kathir, Qisas al-Anbiya (Stories of the Prophets)"
+    }
+  ]
+}

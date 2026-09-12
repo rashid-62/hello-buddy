@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "description": "Reusable knowledge entry schema for Islamic History AI. Copy this shape when adding new verified historical entries.",
+  "entry_template": {
+    "id": "unique-kebab-case-id",
+    "title": "Human-readable title",
+    "period": "Historical period label",
+    "year_hijri": "e.g. 2 AH or null",
+    "year_ce": "e.g. 624 CE or null",
+    "category": "prophet | seerah | battle | treaty | caliph | dynasty | civilization | scholar | science | culture | event | timeline | source",
+    "certainty": "established_traditional | traditional_account | disputed | sectarian_difference",
+    "keywords": ["searchable", "terms"],
+    "summary": "1–3 sentence overview",
+    "detailed_information": "Longer grounded explanation",
+    "important_people": ["Names"],
+    "location": "Place if known",
+    "historical_significance": "Why it matters",
+    "disputed_notes": "Optional. Explain disagreements without taking a sectarian side.",
+    "related_questions": [
+      "Follow-up question 1?",
+      "Follow-up question 2?",
+      "Follow-up question 3?"
+    ],
+    "sources": [
+      {
+        "author": "Author name",
+        "work": "Book or collection",
+        "type": "classical seerah | classical historical source | modern academic | encyclopedic | textbook",
+        "verification_status": "classical | verified | needs_verification | project"
+      }
+    ]
+  },
+  "certainty_guide": {
+    "established_traditional": "Widely attested in mainstream historical narratives with relatively stable core facts (still may have detail disputes).",
+    "traditional_account": "Important in Islamic tradition but not tightly dated or independently confirmed in secular chronology.",
+    "disputed": "Significant disagreement among sources on key facts.",
+    "sectarian_difference": "Sunni and Shia (or other) historical traditions narrate differently — present neutrally."
+  },
+  "adding_knowledge_steps": [
+    "1. Choose the correct JSON file in /knowledge (or create a new file and register it in lib/retrieval/retriever.js).",
+    "2. Copy the entry_template and fill every field carefully.",
+    "3. Add strong keywords for retrieval.",
+    "4. Mark certainty honestly.",
+    "5. Only list sources you have actually checked; otherwise use needs_verification.",
+    "6. Have a qualified reviewer check historical claims before treating them as production-ready."
+  ]
+}

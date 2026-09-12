@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "collection": "important-events",
+  "entries": [
+    {
+      "id": "event-hijrah",
+      "title": "The Hijrah (622 CE)",
+      "period": "Prophetic era",
+      "year_hijri": "1 AH",
+      "year_ce": "622 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Hijrah",
+        "migration",
+        "Madinah",
+        "calendar",
+        "622"
+      ],
+      "summary": "The Hijrah — migration from Makkah to Madinah in 622 CE — begins the Islamic calendar and transforms the Muslim community into a polity.",
+      "detailed_information": "See also the detailed Seerah entry on Hijrah. It is one of the most important chronological anchors in Islamic history.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Abu Bakr",
+        "Ansar",
+        "Muhajirun"
+      ],
+      "location": "Makkah to Madinah",
+      "historical_significance": "Epoch-making event for Islamic chronology and community formation.",
+      "related_questions": [
+        "What was the Constitution of Madinah?",
+        "What happened at the Battle of Badr?",
+        "What were the Pledges of Aqabah?"
+      ],
+      "sources": [
+        {
+          "author": "Classical seerah",
+          "work": "Sirah literature",
+          "type": "classical seerah",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "event-baghdad-1258",
+      "title": "Mongol Sack of Baghdad (1258)",
+      "period": "Late Abbasid",
+      "year_hijri": "656 AH",
+      "year_ce": "1258 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Baghdad",
+        "Mongols",
+        "1258",
+        "Hulagu",
+        "Abbasid fall"
+      ],
+      "summary": "In 1258 CE Mongol forces under Hulagu Khan captured Baghdad, ending the classical Abbasid caliphate in Iraq.",
+      "detailed_information": "The conquest caused massive destruction according to classical reports. It is often treated as a symbolic end of an era, though Islamic civilization continued vigorously under other powers such as the Mamluks and later Ottomans.",
+      "important_people": [
+        "Hulagu Khan",
+        "al-Musta'sim"
+      ],
+      "location": "Baghdad",
+      "historical_significance": "Major rupture in the political center of classical Sunni caliphate.",
+      "related_questions": [
+        "What happened at Ayn Jalut?",
+        "Why did the Abbasid Caliphate decline?",
+        "Who were the Mamluks?"
+      ],
+      "sources": [
+        {
+          "author": "Medieval chroniclers",
+          "work": "Accounts of 1258",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    },
+    {
+      "id": "event-jerusalem-1187",
+      "title": "Recovery of Jerusalem (1187)",
+      "period": "Ayyubid / Crusades",
+      "year_hijri": "583 AH",
+      "year_ce": "1187 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Jerusalem",
+        "1187",
+        "Salahuddin",
+        "Crusades",
+        "Hattin"
+      ],
+      "summary": "After Hattin, Salahuddin recovered Jerusalem in 1187 CE, a landmark event of the Crusades era.",
+      "detailed_information": "Jerusalem's change of hands carried immense religious symbolism for Muslims, Christians, and Jews. Classical Muslim sources emphasize relatively orderly transfer compared with the Crusader conquest of 1099, though modern historians analyze these narratives carefully.",
+      "important_people": [
+        "Salahuddin Ayyubi"
+      ],
+      "location": "Jerusalem",
+      "historical_significance": "Central event in Crusades-era Islamic history.",
+      "related_questions": [
+        "Tell me about Salahuddin Ayyubi.",
+        "What happened at the Battle of Hattin?",
+        "Who were the Ayyubids?"
+      ],
+      "sources": [
+        {
+          "author": "Crusades-era chronicles",
+          "work": "Accounts of 1187",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn al-Athir, Al-Kamil fi al-Tarikh"
+    }
+  ]
+}

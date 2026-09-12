@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "collection": "mamluks",
+  "entries": [
+    {
+      "id": "mamluk-overview",
+      "title": "The Mamluk Sultanate",
+      "period": "Mamluk Period",
+      "year_hijri": "648–922 AH",
+      "year_ce": "1250–1517 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Mamluk",
+        "Mamluks",
+        "Cairo",
+        "Ayn Jalut",
+        "sultanate",
+        "Egypt"
+      ],
+      "summary": "The Mamluks were a military slave-origin elite who ruled Egypt and Syria from 1250 to 1517, defeating the Mongols at Ayn Jalut and later falling to the Ottomans.",
+      "detailed_information": "Mamluk officers took power from the Ayyubids in Egypt. They halted Mongol expansion at Ayn Jalut (1260) and dismantled remaining Crusader footholds over time. Cairo flourished as a political, commercial, and scholarly center; a ceremonial Abbasid caliphate was hosted there after Baghdad's fall. In 1517, Ottoman Sultan Selim I defeated the Mamluks and incorporated Egypt into the Ottoman Empire.",
+      "important_people": [
+        "Shajar al-Durr",
+        "Qutuz",
+        "Baybars",
+        "Qalawun",
+        "Tuman Bay"
+      ],
+      "location": "Egypt and Syria",
+      "historical_significance": "Defenders against Mongols and Crusaders; major late medieval Islamic power.",
+      "related_questions": [
+        "What happened at Ayn Jalut?",
+        "How did the Ottomans conquer Egypt?",
+        "Who was Baybars?"
+      ],
+      "sources": [
+        {
+          "author": "Mamluk-era chroniclers",
+          "work": "Egyptian and Syrian histories",
+          "type": "classical historical source",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Al-Maqrizi, Al-Suluk li-Ma'rifat Duwal al-Muluk"
+    },
+    {
+      "id": "ayn-jalut",
+      "title": "Battle of Ayn Jalut",
+      "period": "Early Mamluk",
+      "year_hijri": "658 AH",
+      "year_ce": "1260 CE",
+      "category": "battle",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ayn Jalut",
+        "Mongols",
+        "Qutuz",
+        "Baybars",
+        "1260"
+      ],
+      "summary": "At Ayn Jalut in 1260 CE, Mamluk forces defeated a Mongol army, stopping Mongol advance into Egypt and marking a major turning point in regional history.",
+      "detailed_information": "Following the Mongol sack of Baghdad (1258) and pressure on Syria, the Mamluks under Qutuz (with Baybars playing a major role in many accounts) won at Ayn Jalut in Palestine. The victory preserved Egypt as a Muslim stronghold and reshaped Near Eastern politics.",
+      "important_people": [
+        "Qutuz",
+        "Baybars",
+        "Mongol commanders"
+      ],
+      "location": "Ayn Jalut, Palestine",
+      "historical_significance": "First major permanent check on Mongol expansion in the Levant/Egypt theater.",
+      "related_questions": [
+        "Who were the Mamluks?",
+        "What caused the fall of the Abbasid Caliphate?",
+        "How did the Ottoman Empire expand?"
+      ],
+      "sources": [
+        {
+          "author": "Mamluk chronicles",
+          "work": "Accounts of Ayn Jalut",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Al-Maqrizi, Al-Suluk li-Ma'rifat Duwal al-Muluk"
+    }
+  ]
+}

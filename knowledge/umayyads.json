@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "collection": "umayyads",
+  "entries": [
+    {
+      "id": "umayyad-overview",
+      "title": "The Umayyad Caliphate",
+      "period": "Umayyad Caliphate",
+      "year_hijri": "41–132 AH",
+      "year_ce": "661–750 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Umayyad",
+        "Umayyads",
+        "Damascus",
+        "Muawiya",
+        "caliphate",
+        "dynasty"
+      ],
+      "summary": "The Umayyad Caliphate (661–750 CE) was the first hereditary Islamic dynasty, centered at Damascus, overseeing vast expansion across North Africa, Spain, and into Central Asia and the Indus region.",
+      "detailed_information": "Founded in practice by Muawiya ibn Abi Sufyan after the First Fitna, the Umayyads created a dynastic caliphate with Damascus as capital. They developed Arabic as an administrative language, issued distinctive coinage, and built major monuments such as the Dome of the Rock. Expansion reached al-Andalus in the west and frontiers in the east. Criticism of perceived Arab favoritism and opposition movements grew, culminating in the Abbasid Revolution (750 CE). A branch survived in al-Andalus as the Umayyad Emirate/Caliphate of Cordoba.",
+      "important_people": [
+        "Muawiya I",
+        "Abd al-Malik",
+        "al-Walid I",
+        "Umar II",
+        "Marwan II"
+      ],
+      "location": "Capital at Damascus; empire from Spain to Central Asia/Indus",
+      "historical_significance": "Transformed Islamic rule into a large imperial dynasty and spread Islam and Arabic across a vast geography.",
+      "related_questions": [
+        "Who founded the Umayyad Caliphate?",
+        "Compare the Umayyads and Abbasids.",
+        "What was al-Andalus?"
+      ],
+      "sources": [
+        {
+          "author": "Modern and classical surveys",
+          "work": "Histories of the Umayyad period",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        },
+        {
+          "author": "al-Tabari tradition",
+          "work": "Tarikh",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk"
+    },
+    {
+      "id": "muawiya-founder",
+      "title": "Muawiya and the Founding of Umayyad Rule",
+      "period": "Early Umayyad",
+      "year_hijri": "41 AH onward",
+      "year_ce": "661 CE onward",
+      "category": "caliph",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Muawiya",
+        "Damascus",
+        "founder",
+        "Umayyad",
+        "hereditary"
+      ],
+      "summary": "Muawiya I established Umayyad dynastic rule from Damascus after Ali's assassination, marking a shift from Rashidun succession patterns toward hereditary monarchy.",
+      "detailed_information": "As governor of Syria and opponent of Ali during the First Fitna, Muawiya emerged as caliph in 661 CE. He maintained a strong Syrian military base, practiced pragmatic governance, and designated his son Yazid as successor — a controversial move in Islamic political memory. Evaluations of Muawiya vary across historical traditions.",
+      "important_people": [
+        "Muawiya I",
+        "Yazid I",
+        "Ali ibn Abi Talib"
+      ],
+      "location": "Damascus, Syria",
+      "historical_significance": "Foundational figure of Umayyad dynastic caliphate.",
+      "disputed_notes": "Moral and political assessments of Muawiya differ across Sunni, Shia, and modern historiographies.",
+      "related_questions": [
+        "What was the Umayyad Caliphate?",
+        "What caused the fall of the Umayyads?",
+        "Who was Abd al-Malik?"
+      ],
+      "sources": [
+        {
+          "author": "Classical Islamic historians",
+          "work": "Early dynastic histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk"
+    },
+    {
+      "id": "umayyad-administration-expansion",
+      "title": "Umayyad Administration and Expansion",
+      "period": "High Umayyad Period",
+      "year_hijri": "65–96 AH (approx.)",
+      "year_ce": "685–715 CE (approx.)",
+      "category": "administration",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Abd al-Malik",
+        "Walid",
+        "Arabic",
+        "Dome of the Rock",
+        "expansion"
+      ],
+      "summary": "Under rulers such as Abd al-Malik and al-Walid I, the Umayyads Arabized administration, built monumental architecture, and expanded to their greatest territorial reach.",
+      "detailed_information": "Abd al-Malik strengthened the state after second civil conflict (Second Fitna), reformed coinage, and promoted Arabic bureaucracy. The Dome of the Rock in Jerusalem became an enduring architectural symbol. Al-Walid's era saw notable expansion and building projects. These developments helped define an imperial Islamic identity.",
+      "important_people": [
+        "Abd al-Malik",
+        "al-Walid I",
+        "al-Hajjaj ibn Yusuf"
+      ],
+      "location": "Damascus, Jerusalem, North Africa, Transoxiana, al-Andalus",
+      "historical_significance": "Consolidated imperial institutions and cultural symbols of early Islamic empire.",
+      "related_questions": [
+        "What was the Dome of the Rock?",
+        "How did Muslims enter Spain?",
+        "Why did the Abbasids overthrow the Umayyads?"
+      ],
+      "sources": [
+        {
+          "author": "Classical and modern historians",
+          "work": "Umayyad administrative history",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk"
+    },
+    {
+      "id": "fall-umayyads",
+      "title": "Fall of the Umayyad Caliphate",
+      "period": "Late Umayyad",
+      "year_hijri": "132 AH",
+      "year_ce": "750 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "fall",
+        "Abbasid Revolution",
+        "750",
+        "Marwan",
+        "Abu Muslim"
+      ],
+      "summary": "In 750 CE the Abbasid Revolution overthrew the Umayyads in the east. Marwan II was defeated, and Abbasid rule began, though an Umayyad prince escaped to al-Andalus.",
+      "detailed_information": "Discontent among non-Arab Muslims (mawali), regional factions, and Hashimite revolutionary propaganda fueled the Abbasid movement, with decisive support in Khurasan under Abu Muslim. The Battle of the Zab (750) doomed Marwan II. Many Umayyads were killed; Abd al-Rahman I fled to Iberia and founded a new Umayyad polity at Cordoba.",
+      "important_people": [
+        "Marwan II",
+        "Abu Muslim",
+        "Abd al-Rahman I"
+      ],
+      "location": "Iraq, Khurasan, Syria; aftermath in al-Andalus",
+      "historical_significance": "Ended Syrian Umayyad caliphate and opened the Abbasid era.",
+      "related_questions": [
+        "How did the Abbasids come to power?",
+        "What was al-Andalus?",
+        "Compare the Umayyads and Abbasids."
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Accounts of the Abbasid Revolution",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk"
+    }
+  ]
+}

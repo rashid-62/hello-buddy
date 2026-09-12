@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "collection": "mughals",
+  "entries": [
+    {
+      "id": "mughal-overview",
+      "title": "The Mughal Empire",
+      "period": "Mughal Period",
+      "year_hijri": "932–1274 AH (approx. imperial span)",
+      "year_ce": "1526–1857 CE (approx.)",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Mughal",
+        "Mughals",
+        "India",
+        "Babur",
+        "Akbar",
+        "Taj Mahal",
+        "Hindustan"
+      ],
+      "summary": "The Mughal Empire was a major Islamic empire in the Indian subcontinent, founded by Babur in 1526, known for administrative synthesis, monumental architecture, and cultural flourishing.",
+      "detailed_information": "Babur, a Timurid prince, defeated Ibrahim Lodi at Panipat (1526). Under Akbar, the empire expanded and developed flexible governance. Jahangir and Shah Jahan continued imperial consolidation; Shah Jahan commissioned the Taj Mahal. Aurangzeb expanded furthest south but faced sustained resistance and fiscal strain. After the 18th century, Mughal power declined under regional states and colonial pressure; 1857 marks a conventional end associated with the last Mughal emperor Bahadur Shah II.",
+      "important_people": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "location": "Indian subcontinent",
+      "historical_significance": "One of the great early modern Islamic empires; profound impact on South Asian culture and history.",
+      "related_questions": [
+        "Who was Akbar?",
+        "What is the Taj Mahal's historical context?",
+        "How did the Mughal Empire begin?"
+      ],
+      "sources": [
+        {
+          "author": "Mughal chronicles and modern historians",
+          "work": "Akbarnama tradition; modern surveys",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Abu'l-Fazl, Akbarnama; John F. Richards, The Mughal Empire"
+    },
+    {
+      "id": "babur-akbar",
+      "title": "Babur and Akbar",
+      "period": "Early–High Mughal",
+      "year_hijri": "932 AH onward",
+      "year_ce": "1526 CE onward",
+      "category": "ruler",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Babur",
+        "Akbar",
+        "Panipat",
+        "foundation",
+        "Mughal"
+      ],
+      "summary": "Babur founded Mughal rule in India (1526). Akbar later transformed the empire through expansion, administrative systems, and policies of broader incorporation.",
+      "detailed_information": "Babur's memoirs (Baburnama) provide a rare royal autobiography. After Humayun's interrupted reign, Akbar built a durable imperial structure: mansabdari military-administrative ranking, revenue systems, and a court culture engaging multiple communities. Historical evaluations of Akbar's religious experiments (e.g., Din-i Ilahi) differ and should be handled carefully.",
+      "important_people": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Todar Mal"
+      ],
+      "location": "North India and expanding Mughal domains",
+      "historical_significance": "Foundation and consolidation of Mughal imperial order.",
+      "disputed_notes": "Interpretations of Akbar's religious policies vary among historians.",
+      "related_questions": [
+        "What was the Mughal Empire?",
+        "Who was Shah Jahan?",
+        "How did Mughal power decline?"
+      ],
+      "sources": [
+        {
+          "author": "Babur; Abu'l-Fazl",
+          "work": "Baburnama; Akbarnama",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Abu'l-Fazl, Akbarnama; John F. Richards, The Mughal Empire"
+    }
+  ]
+}

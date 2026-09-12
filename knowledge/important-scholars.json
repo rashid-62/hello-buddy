@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "collection": "important-scholars",
+  "entries": [
+    {
+      "id": "imam-abu-hanifa",
+      "title": "Abu Hanifa",
+      "period": "Early Islamic scholarship",
+      "year_hijri": "d. 150 AH",
+      "year_ce": "699–767 CE",
+      "category": "scholar",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Abu Hanifa",
+        "Hanafi",
+        "fiqh",
+        "scholar",
+        "Kufa"
+      ],
+      "summary": "Abu Hanifa was a foundational jurist of Kufa whose legal school (Hanafi) became one of the major Sunni madhhabs.",
+      "detailed_information": "Working in a period of rapid social change, Abu Hanifa emphasized reasoned legal analogy within Qur'an and Sunnah frameworks according to classical accounts of his method. His students spread Hanafi jurisprudence widely, especially later under Abbasid and Ottoman contexts.",
+      "important_people": [
+        "Abu Hanifa",
+        "Abu Yusuf",
+        "Muhammad al-Shaybani"
+      ],
+      "location": "Kufa",
+      "historical_significance": "Eponym of a major Islamic legal tradition.",
+      "related_questions": [
+        "Who was Imam Malik?",
+        "Who was al-Shafi'i?",
+        "What scholars shaped Islamic law?"
+      ],
+      "sources": [
+        {
+          "author": "Classical biographical dictionaries",
+          "work": "Tabaqat and fiqh histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Khallikan, Wafayat al-Ayan"
+    },
+    {
+      "id": "imam-ghazali",
+      "title": "Al-Ghazali",
+      "period": "Seljuk–Abbasid intellectual era",
+      "year_hijri": "d. 505 AH",
+      "year_ce": "1058–1111 CE",
+      "category": "scholar",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ghazali",
+        "Ihya",
+        "philosophy",
+        "Sufism",
+        "scholar",
+        "Nizamiyya"
+      ],
+      "summary": "Abu Hamid al-Ghazali was a major theologian, jurist, and spiritual writer whose works reshaped Sunni thought and engagement with philosophy.",
+      "detailed_information": "Associated with the Nizamiyya milieu, al-Ghazali wrote critiques of certain philosophical positions, defenses of Sunni theology, and the influential Ihya Ulum al-Din. His career included a famous spiritual crisis and withdrawal from teaching, later returning to writing and guidance.",
+      "important_people": [
+        "al-Ghazali",
+        "Nizam al-Mulk (patronage context)"
+      ],
+      "location": "Baghdad, Nishapur, Tus region",
+      "historical_significance": "Central figure in classical Islamic intellectual and spiritual history.",
+      "related_questions": [
+        "Who was Ibn Sina?",
+        "Who was Ibn Rushd?",
+        "What was the role of madrasas?"
+      ],
+      "sources": [
+        {
+          "author": "Classical and modern studies",
+          "work": "Biographies of al-Ghazali",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn Khallikan, Wafayat al-Ayan"
+    },
+    {
+      "id": "ibn-rushd",
+      "title": "Ibn Rushd (Averroes)",
+      "period": "Al-Andalus",
+      "year_hijri": "d. 595 AH",
+      "year_ce": "1126–1198 CE",
+      "category": "scholar",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ibn Rushd",
+        "Averroes",
+        "philosophy",
+        "Andalus",
+        "Aristotle",
+        "Cordoba"
+      ],
+      "summary": "Ibn Rushd was an Andalusi philosopher, jurist, and physician famous for commentaries on Aristotle and debates on reason and revelation.",
+      "detailed_information": "Serving as a qadi and physician, Ibn Rushd wrote extensive Aristotelian commentaries that later influenced Latin European scholasticism (as Averroes). He engaged arguments associated with al-Ghazali regarding philosophy. His career also faced political-religious pressures in the Almohad context.",
+      "important_people": [
+        "Ibn Rushd",
+        "al-Ghazali (intellectual counterpart)"
+      ],
+      "location": "Cordoba and al-Andalus / Maghrib",
+      "historical_significance": "Bridge figure between Islamic philosophy and medieval European thought.",
+      "related_questions": [
+        "What was al-Andalus?",
+        "Who was al-Ghazali?",
+        "Explain the Islamic Golden Age."
+      ],
+      "sources": [
+        {
+          "author": "Andalusi biographical tradition",
+          "work": "Accounts of Ibn Rushd",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Khallikan, Wafayat al-Ayan"
+    },
+    {
+      "id": "ibn-khaldun",
+      "title": "Ibn Khaldun",
+      "period": "Late medieval Maghrib",
+      "year_hijri": "d. 808 AH",
+      "year_ce": "1332–1406 CE",
+      "category": "scholar",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ibn Khaldun",
+        "Muqaddimah",
+        "historiography",
+        "asabiyya",
+        "scholar"
+      ],
+      "summary": "Ibn Khaldun was a North African historian and social theorist whose Muqaddimah pioneered analytical historiography and concepts of group solidarity (asabiyya).",
+      "detailed_information": "Ibn Khaldun served in various political roles across the Maghrib and Egypt. His Muqaddimah examines rise and fall of dynasties, urban-rural dynamics, and methods of historical criticism. He is often cited as a forerunner of sociology and philosophy of history.",
+      "important_people": [
+        "Ibn Khaldun"
+      ],
+      "location": "Maghrib and Egypt",
+      "historical_significance": "Landmark figure in the theory and method of history writing.",
+      "related_questions": [
+        "What was Islamic historiography?",
+        "Who were the Mamluks?",
+        "What cultural developments shaped late medieval Islam?"
+      ],
+      "sources": [
+        {
+          "author": "Ibn Khaldun",
+          "work": "Muqaddimah; Autobiography",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Khallikan, Wafayat al-Ayan"
+    }
+  ]
+}

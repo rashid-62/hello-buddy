@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "collection": "ottomans",
+  "entries": [
+    {
+      "id": "ottoman-overview",
+      "title": "The Ottoman Empire",
+      "period": "Ottoman Period",
+      "year_hijri": "c. 699–1342 AH",
+      "year_ce": "c. 1299–1922 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ottoman",
+        "Ottomans",
+        "Istanbul",
+        "Constantinople",
+        "sultan",
+        "empire",
+        "Turkey"
+      ],
+      "summary": "The Ottoman Empire was a major Islamic empire lasting roughly from the late 13th century to the early 20th century, centered first in Anatolia and later in Istanbul.",
+      "detailed_information": "Emerging from an Anatolian beylik under Osman I, the Ottomans expanded across the Balkans and Anatolia. Mehmed II conquered Constantinople in 1453, renaming/transforming it as the imperial capital Istanbul. Under Suleiman the Magnificent, the empire reached a classical high point in law, architecture, and territorial power. The Ottomans later claimed caliphal status after defeating the Mamluks (1517). Long decline relative to European powers, 19th-century reforms, World War I defeat, and abolition of the sultanate/caliphate ended the empire and led to modern Turkey.",
+      "important_people": [
+        "Osman I",
+        "Mehmed II",
+        "Selim I",
+        "Suleiman I",
+        "Abdulhamid II"
+      ],
+      "location": "Anatolia, Balkans, Middle East, North Africa (at height)",
+      "historical_significance": "One of the longest-lasting and most influential Islamic empires in world history.",
+      "related_questions": [
+        "How did the Ottoman Empire begin?",
+        "What was the conquest of Constantinople?",
+        "Who was Suleiman the Magnificent?"
+      ],
+      "sources": [
+        {
+          "author": "Ottoman and modern historians",
+          "work": "Surveys of Ottoman history",
+          "type": "historical synthesis",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Halil İnalcık, The Ottoman Empire: The Classical Age"
+    },
+    {
+      "id": "ottoman-origins",
+      "title": "Origins of the Ottoman Empire",
+      "period": "Early Ottoman",
+      "year_hijri": "c. 699 AH onward",
+      "year_ce": "c. 1299 CE onward",
+      "category": "dynasty",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Osman",
+        "beylik",
+        "Anatolia",
+        "beginning",
+        "origin",
+        "Ottoman"
+      ],
+      "summary": "The Ottoman state began as a small Turkic beylik in northwestern Anatolia under Osman I around the turn of the 14th century, expanding at Byzantine expense.",
+      "detailed_information": "After Seljuk decline and Mongol pressure, Anatolia fragmented into beyliks. Osman's principality near the Byzantine frontier grew through ghazi warfare, alliances, and settlement. Early rulers such as Orhan captured Bursa and expanded into Europe. Exact foundational dating (often popularly 1299) is a conventional marker; early chronology has scholarly nuances.",
+      "important_people": [
+        "Osman I",
+        "Orhan",
+        "early Ottoman gazis"
+      ],
+      "location": "Bithynia / northwestern Anatolia",
+      "historical_significance": "Starting point of a world empire.",
+      "disputed_notes": "Precise early dates and legends of Osman are partly conventional and literary.",
+      "related_questions": [
+        "What happened at Manzikert?",
+        "What was the conquest of Constantinople?",
+        "Who were the Seljuks?"
+      ],
+      "sources": [
+        {
+          "author": "Early Ottoman chronicles",
+          "work": "Ottoman origin narratives",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Halil İnalcık, The Ottoman Empire: The Classical Age"
+    },
+    {
+      "id": "conquest-constantinople",
+      "title": "Conquest of Constantinople (1453)",
+      "period": "Rise of Ottoman Power",
+      "year_hijri": "857 AH",
+      "year_ce": "1453 CE",
+      "category": "event",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Constantinople",
+        "Istanbul",
+        "Mehmed II",
+        "1453",
+        "Byzantium"
+      ],
+      "summary": "In 1453 CE, Sultan Mehmed II conquered Constantinople, ending the Byzantine Empire and establishing the city as the Ottoman imperial capital.",
+      "detailed_information": "Using large cannons, naval pressure, and siege tactics, Ottoman forces breached the Theodosian walls. The conquest had enormous symbolic and strategic impact: control of the Bosporus, imperial prestige, and a new cultural center. Hagia Sophia was converted into a mosque. Mehmed became known as Fatih (the Conqueror).",
+      "important_people": [
+        "Mehmed II",
+        "Constantine XI"
+      ],
+      "location": "Constantinople / Istanbul",
+      "historical_significance": "Watershed moment between late medieval and early modern eras in the eastern Mediterranean.",
+      "related_questions": [
+        "How did the Ottoman Empire begin?",
+        "Who was Suleiman the Magnificent?",
+        "How did the Ottomans become caliphs?"
+      ],
+      "sources": [
+        {
+          "author": "Contemporary Ottoman and Byzantine accounts",
+          "work": "1453 conquest narratives",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Halil İnalcık, The Ottoman Empire: The Classical Age"
+    },
+    {
+      "id": "suleiman-magnificent",
+      "title": "Suleiman the Magnificent",
+      "period": "Classical Ottoman Age",
+      "year_hijri": "926–974 AH",
+      "year_ce": "1520–1566 CE",
+      "category": "ruler",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Suleiman",
+        "Kanuni",
+        "Magnificent",
+        "Ottoman",
+        "law"
+      ],
+      "summary": "Suleiman I (r. 1520–1566) led the Ottoman Empire at a peak of military power, legal organization, and architectural patronage.",
+      "detailed_information": "Known in Turkish tradition as Kanuni (Lawgiver), Suleiman campaigned in Europe, the Mediterranean, and against Safavid Iran. His reign is associated with the architect Mimar Sinan and a refined imperial culture. European sources often call him 'the Magnificent.'",
+      "important_people": [
+        "Suleiman I",
+        "Mimar Sinan",
+        "Hurrem Sultan"
+      ],
+      "location": "Istanbul and wider Ottoman domains",
+      "historical_significance": "Embodies the classical Ottoman imperial apex.",
+      "related_questions": [
+        "What was the conquest of Constantinople?",
+        "How did the Ottoman Empire decline?",
+        "Who were the Mughals compared to the Ottomans?"
+      ],
+      "sources": [
+        {
+          "author": "Ottoman historians",
+          "work": "Chronicles of Suleiman's reign",
+          "type": "classical historical source",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Halil İnalcık, The Ottoman Empire: The Classical Age"
+    }
+  ]
+}

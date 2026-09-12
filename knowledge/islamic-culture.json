@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "collection": "islamic-culture",
+  "entries": [
+    {
+      "id": "islamic-culture-overview",
+      "title": "Islamic Cultural Developments",
+      "period": "Across Islamic civilizations",
+      "year_hijri": "1 AH onward",
+      "year_ce": "7th century CE onward",
+      "category": "culture",
+      "certainty": "established_traditional",
+      "keywords": [
+        "culture",
+        "architecture",
+        "calligraphy",
+        "literature",
+        "madrasas",
+        "art"
+      ],
+      "summary": "Islamic civilizations developed rich traditions in architecture, calligraphy, literature, music (regionally diverse), education, and urban culture across continents.",
+      "detailed_information": "Cultural expression varied by region — Arabia, Persia, Anatolia, Africa, al-Andalus, South Asia, and Southeast Asia — while sharing themes such as Qur'anic calligraphy, mosque architecture, geometric ornament, and scholarly institutions (madrasas). Cities like Baghdad, Cordoba, Cairo, Istanbul, and Delhi became cultural capitals at different times. Culture evolved through interaction with local traditions.",
+      "important_people": [
+        "poets, architects, calligraphers, and scholars across centuries"
+      ],
+      "location": "Global Islamic world",
+      "historical_significance": "Shows Islamicate civilization as culturally creative and diverse, not monolithic.",
+      "related_questions": [
+        "What is distinctive about Islamic architecture?",
+        "What was the role of madrasas?",
+        "Explain the Islamic Golden Age."
+      ],
+      "sources": [
+        {
+          "author": "Islamic art and culture surveys",
+          "work": "Introductory cultural histories",
+          "type": "modern academic",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn Khaldun, Al-Muqaddimah"
+    },
+    {
+      "id": "islamic-architecture",
+      "title": "Islamic Architecture",
+      "period": "Across periods",
+      "year_hijri": "1 AH onward",
+      "year_ce": "7th century onward",
+      "category": "culture",
+      "certainty": "established_traditional",
+      "keywords": [
+        "architecture",
+        "mosque",
+        "dome",
+        "minaret",
+        "geometric",
+        "Taj Mahal",
+        "Hagia Sophia"
+      ],
+      "summary": "Islamic architecture includes mosques, madrasas, palaces, caravanserais, and tombs, often featuring domes, courtyards, minarets, calligraphy, and geometric ornament.",
+      "detailed_information": "From the Prophet's Mosque in Madinah to Umayyad monuments, Abbasid cities, Andalusi mosques, Ottoman complexes by Mimar Sinan, and Mughal tombs such as the Taj Mahal, architecture expressed both religious function and imperial aesthetics. Regional materials and styles created distinct visual languages under a shared cultural vocabulary.",
+      "important_people": [
+        "Mimar Sinan",
+        "imperial patrons across dynasties"
+      ],
+      "location": "Across Islamic lands",
+      "historical_significance": "One of the most visible legacies of Islamic civilization.",
+      "related_questions": [
+        "What was the Dome of the Rock?",
+        "Who was Mimar Sinan?",
+        "What is the Taj Mahal's historical context?"
+      ],
+      "sources": [
+        {
+          "author": "Art historians",
+          "work": "Surveys of Islamic architecture",
+          "type": "modern academic",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Ibn Khaldun, Al-Muqaddimah"
+    }
+  ]
+}

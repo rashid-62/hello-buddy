@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0",
+  "collection": "rashidun",
+  "entries": [
+    {
+      "id": "rashidun-overview",
+      "title": "The Rashidun Caliphate",
+      "period": "Rashidun Caliphate",
+      "year_hijri": "11–40 AH",
+      "year_ce": "632–661 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Rashidun",
+        "Rightly Guided",
+        "caliphate",
+        "Abu Bakr",
+        "Umar",
+        "Uthman",
+        "Ali"
+      ],
+      "summary": "The Rashidun (Rightly Guided) Caliphate was the first caliphal period after Prophet Muhammad ﷺ, traditionally including Abu Bakr, Umar, Uthman, and Ali (11–40 AH / 632–661 CE).",
+      "detailed_information": "After the Prophet's death, leadership of the community passed to the caliphs. Under the Rashidun, the Muslim community consolidated Arabia and expanded rapidly into Byzantine and Sasanian territories. The period includes the Ridda Wars, major conquests in Syria, Iraq, Egypt, and Persia, administrative developments, and later internal conflict culminating in the First Fitna. Sunni tradition especially reveres these four caliphs; Shia historical tradition holds a different view of rightful succession, particularly regarding Ali. Neutral academic presentation should acknowledge this difference.",
+      "important_people": [
+        "Abu Bakr",
+        "Umar ibn al-Khattab",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib"
+      ],
+      "location": "Arabia, Levant, Egypt, Iraq, Persia",
+      "historical_significance": "Foundational era of Islamic political succession and early imperial expansion.",
+      "disputed_notes": "Sunni and Shia traditions differ on succession after the Prophet. Present differences respectfully without polemic.",
+      "related_questions": [
+        "Who was Abu Bakr?",
+        "What were the Ridda Wars?",
+        "How did the Umayyad Caliphate begin?"
+      ],
+      "sources": [
+        {
+          "author": "al-Tabari (tradition)",
+          "work": "Tarikh al-Rusul wa al-Muluk",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk; Jalal ad-Din as-Suyuti, History of the Caliphs"
+    },
+    {
+      "id": "abu-bakr",
+      "title": "Abu Bakr al-Siddiq",
+      "period": "Rashidun Caliphate",
+      "year_hijri": "11–13 AH",
+      "year_ce": "632–634 CE",
+      "category": "caliph",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Abu Bakr",
+        "Siddiq",
+        "Ridda",
+        "first caliph"
+      ],
+      "summary": "Abu Bakr was the first caliph after Prophet Muhammad ﷺ. His short rule preserved the unity of the community through the Ridda Wars and began further expansion.",
+      "detailed_information": "A close Companion and early believer, Abu Bakr was selected at Saqifah according to the dominant Sunni historical narrative. Facing tribal refusals to remit zakat or claims of new prophethood, he fought the Ridda campaigns to restore Medinan authority across Arabia. He also initiated the direction of campaigns toward Syria and Iraq. He nominated Umar as successor before his death.",
+      "important_people": [
+        "Prophet Muhammad ﷺ",
+        "Umar",
+        "Khalid ibn al-Walid"
+      ],
+      "location": "Madinah / Arabian Peninsula",
+      "historical_significance": "Stabilized the early Muslim polity after the Prophet's death.",
+      "disputed_notes": "The legitimacy and process of succession at Saqifah are interpreted differently in Sunni and Shia historical traditions.",
+      "related_questions": [
+        "What were the Ridda Wars?",
+        "Who was Umar ibn al-Khattab?",
+        "What happened after the death of Prophet Muhammad ﷺ?"
+      ],
+      "sources": [
+        {
+          "author": "Classical Islamic historians",
+          "work": "Early caliphal histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk; Jalal ad-Din as-Suyuti, History of the Caliphs"
+    },
+    {
+      "id": "umar-ibn-khattab",
+      "title": "Umar ibn al-Khattab",
+      "period": "Rashidun Caliphate",
+      "year_hijri": "13–23 AH",
+      "year_ce": "634–644 CE",
+      "category": "caliph",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Umar",
+        "Omar",
+        "conquests",
+        "Jerusalem",
+        "diwan",
+        "second caliph"
+      ],
+      "summary": "Umar, the second caliph, oversaw major conquests of Byzantine and Sasanian lands and developed early administrative structures of the expanding state.",
+      "detailed_information": "Under Umar, Muslim armies took key regions including Syria, Palestine (including Jerusalem), Egypt, and large parts of the Sasanian Empire. He is associated with institutional measures such as registers (diwan), stipends, and provincial governance. Classical accounts portray him as austere and justice-focused. He was assassinated in 644 CE.",
+      "important_people": [
+        "Abu Ubayda",
+        "Amr ibn al-As",
+        "Sa'd ibn Abi Waqqas"
+      ],
+      "location": "Expanded across Near East",
+      "historical_significance": "Transformed the Medinan community into a major regional power.",
+      "related_questions": [
+        "Who was Uthman ibn Affan?",
+        "How did Islamic rule expand under the Rashidun?",
+        "What was the Rashidun Caliphate?"
+      ],
+      "sources": [
+        {
+          "author": "Classical historians",
+          "work": "Futuh and tarikh literature",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk; Jalal ad-Din as-Suyuti, History of the Caliphs"
+    },
+    {
+      "id": "uthman-ali-fitna",
+      "title": "Uthman, Ali, and the First Fitna",
+      "period": "Late Rashidun",
+      "year_hijri": "23–40 AH",
+      "year_ce": "644–661 CE",
+      "category": "conflict",
+      "certainty": "disputed",
+      "keywords": [
+        "Uthman",
+        "Ali",
+        "Fitna",
+        "Jamal",
+        "Siffin",
+        "civil war"
+      ],
+      "summary": "The later Rashidun period saw growing tensions under Uthman, his assassination, Ali's caliphate, and the First Fitna — a civil conflict with lasting consequences for Islamic political history.",
+      "detailed_information": "Uthman oversaw further consolidation and is closely associated with the standardization of the Qur'anic mushaf in classical Sunni accounts. Opposition grew over accusations of nepotism and provincial grievances; historical evaluations differ. After his killing, Ali became caliph and faced challenges from multiple factions, including the Battle of the Camel and Siffin against Muawiya. Arbitration and Kharijite splintering followed. Ali was assassinated in 661 CE, after which Muawiya consolidated power, transitioning toward Umayyad dynastic rule. Narratives and moral evaluations of these events differ significantly among historical and sectarian traditions.",
+      "important_people": [
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib",
+        "Aisha",
+        "Muawiya",
+        "Kharijites"
+      ],
+      "location": "Madinah, Basra, Siffin, Kufa",
+      "historical_significance": "Shaped Sunni-Shia historical memory and ended the Rashidun era.",
+      "disputed_notes": "Accounts of responsibility, legitimacy, and the meaning of these conflicts vary widely. Historical sources differ; avoid absolute one-sided claims.",
+      "related_questions": [
+        "Who founded the Umayyad Caliphate?",
+        "What was the Rashidun Caliphate?",
+        "Who was Muawiya?"
+      ],
+      "sources": [
+        {
+          "author": "al-Tabari and other classical historians",
+          "work": "Histories of the Fitna",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk; Jalal ad-Din as-Suyuti, History of the Caliphs"
+    },
+    {
+      "id": "ridda-wars",
+      "title": "Ridda Wars",
+      "period": "Early Rashidun",
+      "year_hijri": "11–12 AH",
+      "year_ce": "632–633 CE",
+      "category": "conflict",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Ridda",
+        "apostasy",
+        "Abu Bakr",
+        "Arabia",
+        "Musaylima"
+      ],
+      "summary": "The Ridda Wars were campaigns under Abu Bakr against Arabian tribes that refused Medinan authority after the Prophet's death — through withholding zakat, political secession, or false prophetic claims.",
+      "detailed_information": "Not all movements labeled 'Ridda' were identical: some tribes sought political independence, some refused tax obligations, and some followed claimants such as Musaylima. Abu Bakr insisted on maintaining the unity of the community and the obligations established in the Prophet's time. Victory secured Arabia as a base for later expansion.",
+      "important_people": [
+        "Abu Bakr",
+        "Khalid ibn al-Walid",
+        "Musaylima"
+      ],
+      "location": "Arabian Peninsula",
+      "historical_significance": "Preserved a unified Arabian Muslim polity after 632 CE.",
+      "related_questions": [
+        "Who was Abu Bakr?",
+        "What happened after the death of Prophet Muhammad ﷺ?",
+        "How did conquests begin under the Rashidun?"
+      ],
+      "sources": [
+        {
+          "author": "Classical futuh historians",
+          "work": "Early Islamic conquest and caliphal histories",
+          "type": "classical historical source",
+          "verification_status": "classical"
+        }
+      ],
+      "source": "Ibn Jarir al-Tabari, Tarikh al-Rusul wa al-Muluk; Jalal ad-Din as-Suyuti, History of the Caliphs"
+    }
+  ]
+}

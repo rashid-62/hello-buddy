@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "collection": "fatimids",
+  "entries": [
+    {
+      "id": "fatimid-overview",
+      "title": "The Fatimid Caliphate",
+      "period": "Fatimid Caliphate",
+      "year_hijri": "297–567 AH",
+      "year_ce": "909–1171 CE",
+      "category": "civilization",
+      "certainty": "established_traditional",
+      "keywords": [
+        "Fatimid",
+        "Fatimids",
+        "Cairo",
+        "Ismaili",
+        "caliphate",
+        "North Africa"
+      ],
+      "summary": "The Fatimids were an Ismaili Shia caliphate that ruled from North Africa and later Egypt (909–1171 CE), founding Cairo and rivaling the Abbasids for leadership of the Islamic world.",
+      "detailed_information": "The Fatimids claimed descent from Fatima and Ali. Rising in Ifriqiya (North Africa), they conquered Egypt in 969 CE and founded Cairo (al-Qahira). They developed a powerful Mediterranean state, promoted Ismaili learning, and built institutions such as al-Azhar (initially as a Fatimid center of learning). Their rule ended when Salahuddin (Saladin) abolished the Fatimid caliphate and restored Abbasid allegiance under Ayyubid authority.",
+      "important_people": [
+        "Ubayd Allah al-Mahdi",
+        "al-Mu'izz",
+        "al-Hakim",
+        "al-Mustansir"
+      ],
+      "location": "North Africa and Egypt; influence in Syria and Hijaz at times",
+      "historical_significance": "Major Shia caliphate and founder of Cairo as an Islamic capital.",
+      "disputed_notes": "Fatimid claims and Ismaili doctrines were contested by rival Sunni powers; describe neutrally.",
+      "related_questions": [
+        "Who founded Cairo?",
+        "How did Salahuddin end Fatimid rule?",
+        "What was al-Azhar's early history?"
+      ],
+      "sources": [
+        {
+          "author": "Medieval Islamic historians",
+          "work": "Fatimid-period histories",
+          "type": "classical historical source",
+          "verification_status": "needs_verification"
+        }
+      ],
+      "source": "Al-Maqrizi, Itti'az al-Hunafa"
+    }
+  ]
+}
