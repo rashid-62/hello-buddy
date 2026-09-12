@@ -1463,6 +1463,9 @@ body {
     animation: none !important;
     transition: none !important;
     scroll-behavior: auto !important;
+  }
+}
+
 .history-list::-webkit-scrollbar-thumb,
 .chat-stage::-webkit-scrollbar-thumb {
   background: rgba(201, 162, 39, 0.2);
@@ -2525,6 +2528,8 @@ dialog.modal::backdrop {
   align-items: center;
   gap: 0.75rem;
   animation: pulseFade 1.8s infinite alternate;
+}
+
 .settings-group.no-border {
   border-bottom: none;
   padding-bottom: 0;
@@ -2798,13 +2803,8 @@ body { background:var(--ink); color:var(--paper); }
 @media (max-width:600px) { .topbar .topbar-title { gap:0; }.composer-wrap .composer { grid-template-columns:42px minmax(0,1fr) 44px !important; }.composer-wrap .btn-send { padding:.65rem; }.composer-wrap .btn-send::after { display:inline; } }
 
 .topbar-title { flex-direction:row !important; align-items:center !important; }
-.composer-wrap .composer { display:block !important; padding:.45rem !important; }
-.composer-wrap .composer-input-row { display:grid !important; grid-template-columns:44px minmax(0,1fr) auto !important; align-items:center !important; padding:0 !important; }
-.composer-wrap .composer-input-row > * { min-width:0; }
-.composer-wrap .composer-input-row .btn-attach { grid-column:1; grid-row:1; }
-.composer-wrap .composer-input-row #messageInput { grid-column:2; grid-row:1; }
-.composer-wrap .composer-input-row .btn-send { grid-column:3; grid-row:1; }
-@media (max-width:600px) { .composer-wrap .composer-input-row { grid-template-columns:42px minmax(0,1fr) 44px !important; } }
+.composer-wrap .composer { padding:.45rem !important; column-gap:.4rem; align-items:center; }
+.composer-wrap .composer > * { min-width:0; }
 
 /* Give every complete Turath reply the same rounded-card finish as a user message. */
 .message.assistant .message-block {
